@@ -1,1 +1,1 @@
-Personal site
+Personal site for Edward Gan

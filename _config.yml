@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Difang Huang
-email: egan1@stanford.edu
+email: 
 description: CS PhD Student at Stanford University.
 sub_description: Data + ML Systems.
 baseurl: "" # the subpath of your site, e.g. /blog
