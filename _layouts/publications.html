@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Publications</h1>
+  
+  {{ content }}
+
+  <div>
+  <ul class="pub-list">
+    {% for post in site.categories.paper %}
+        <li class="pub-listing">
+          <a href="{{post.ref-url}}" class=ptitle>
+            {{ post.title }}</a>
+          <div>
+            {{ post.ref-authors }}
+          <br>
+            <em>{{ post.ref-journal}} {{ post.ref-year }}</em>
+            {% if post.ref-doi %}
+              <a href="http://dx.doi.org/{{ post.ref-doi }}">
+                doi: {{ post.ref-doi }}
+              </a>
+            {% endif %}
+            <div>{{ post.content }}</div>
+          </div>
+        </li>
+    {% endfor %}
+  <ul>
+  </div>
+</div>
