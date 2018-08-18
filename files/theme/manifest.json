@@ -1,75 +1,62 @@
- {
+{
 	"responsive": true,
 	"glyph-icons": true,
-	"description": "Squared is a bold, image-first theme. With layouts designed to showcase your photo and styling that features some extra design polish, Squared really stands out. Special eCommerce design features give your products a beautiful home and extra space for a dramatic storefront. Squared is the perfect theme for any creative looking to make an impression.",
+	"description": "Clean Lines is a true universal theme, and lives up to its name with a design that's crisp and professional. Clean Lines makes an impact with full-width-headers and classy color palettes. With both dark and light color schemes, Clean Lines is a beautifully styled blank slate for your brand to build on. Perfect for shops, consultants, nutritionists, and service businesses.",
 	"enableEditorJS": true,
 	"features": [
 		"responsive",
+		"full-width-headers",
+		"light-dark-palletes",
 		"css-buttons",
 		"social-icons",
-		"navigation-side",
+		"navigation-top",
 		"color-palettes"
 	],
 	"variations": [
 		{
-			"value": "coral",
-			"sample": "#ed5448",
-			"is-dark": false
-		},
-		{
-			"value": "lightcoral",
-			"sample": "#ff867a",
-			"is-dark": false
-		},
-		{
-			"value": "turquoise",
-			"sample": "#30bdbe",
-			"is-dark": false
-		},
-		{
-			"value": "lightturquoise",
-			"sample": "#76e6e7",
-			"is-dark": false
-		},
-		{
-			"value": "kelly",
-			"sample": "#07a355",
-			"is-dark": false
-		},
-		{
-			"value": "lightkelly",
-			"sample": "#3fcd86",
-			"is-dark": false
-		},
-		{
-			"value": "orchid",
-			"sample": "#c94fe2",
-			"is-dark": false
-		},
-		{
-			"value": "lightorchid",
-			"sample": "#e288f5",
+			"value": "teal",
+			"sample": "#5199a8",
 			"is-dark": false
 		},
 		{
 			"value": "orange",
-			"sample": "#faa732",
+			"sample": "#ff9a22",
+			"is-dark": true
+		},
+		{
+			"value": "red",
+			"sample": "#f64c3f",
 			"is-dark": false
 		},
 		{
-			"value": "lightorange",
-			"sample": "#fcce75",
+			"value": "pink",
+			"sample": "#ff7f6e",
+			"is-dark": true
+		},
+		{
+			"value": "green",
+			"sample": "#52ae8c",
+			"is-dark": true
+		},
+		{
+			"value": "blue",
+			"sample": "#5b72dc",
 			"is-dark": false
 		},
 		{
-			"value": "gray",
-			"sample": "#b3b3b3",
+			"value": "yellow",
+			"sample": "#dea227",
 			"is-dark": false
-		},
+		}
+	],
+	"custom-options" : [
 		{
-			"value": "lightgray",
-			"sample": "#efefef",
-			"is-dark": false
+			"name" : "full-width",
+			"title": "Full Width",
+			"type" : "toggle",
+			"default" : true,
+			"is-body-class" : true,
+			"is-less-var" : false
 		}
 	]
 }
