@@ -4,15 +4,13 @@ layout: default
 
 updated on February, 2018
 
-[amador.manuel@gmail.com](mailto:amador.manuel@gmail.com) -- [http://amadormanuel.me](http://amadormanuel.me)
+I am economist at the research department of the [Federal Reserve Bank of Minneapolis](http://www.minneapolisfed.org/research/economic_research) and at the [University of Minnesota](http://www.econ.umn.edu). 
+
+My areas of interest are macroeconomic theory and international economics.
 
 
 
-I am economist at the research department of the [Federal Reserve Bank of Minneapolis](http://www.minneapolisfed.org/research/economic_research) and at the [University of Minnesota](http://www.econ.umn.edu). My areas of interest are macroeconomic theory and international economics. I am currently an associate editor at the [American Economic Review](http://www.aeaweb.org/aer/index.php), [Econometrica](https://www.econometricsociety.org/editors.asp), the [Journal of International Economics](http://www.journals.elsevier.com/journal-of-international-economics/) and the [Review of Economic Studies](http://www.restud.com/editorial-board/).
-
-
-
-## Working Papers
+## Papers
 
 - [Exchange Rate Policies at the Zero Lower Bound][12], joint with Javier Bianchi, Luigi Bocola and Fabrizio Perri. Link to [older version][1].
 - [Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models][11], joint with Mark Aguiar.
@@ -39,9 +37,9 @@ I am economist at the research department of the [Federal Reserve Bank of Minnea
 
 
 
-## Codes&Data
+## Code and Data
 
-Github [repository](https://github.com/manuelamador?tab=repositories), includes
+Github [repository](https://github.com/difang-huang?tab=repositories), includes
 
 - Code and data used in published papers
 - Code containing additional functionality for Mathematica, including access to FRED and the WorldBank Open Data.
