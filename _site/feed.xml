@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Amador</title>
+    <description>Federal Reserve Bank of Minneapolis, Research Department, 90 Hennepin Avenue, Minneapolis, MN 55401</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 06 Mar 2017 23:27:15 -0600</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2017 23:27:15 -0600</lastBuildDate>
+    <generator>Jekyll v3.4.1</generator>
+    
+  </channel>
+</rss>
