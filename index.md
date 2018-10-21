@@ -12,7 +12,14 @@ My areas of interest are macroeconomic theory and international economics.
 
 ## Papers
 
+#### Finance
+
 - [Exchange Rate Policies at the Zero Lower Bound][12], joint with Javier Bianchi, Luigi Bocola and Fabrizio Perri. Link to [older version][1].
+
+  
+
+#### Econometrics
+
 - [Self-fulfilling Debt Dilution: Maturity and Multiplicity in Debt Models][11], joint with Mark Aguiar.
 - [Reputation and Sovereign Default][10], joint with Christopher Phelan.
 - Foreign Reserve Management ant Zero Interest Rates, [slides][9], joint with Javier Bianchi, Luigi Bocola and Fabrizio Perri.
