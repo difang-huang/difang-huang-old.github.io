@@ -1,0 +1,1888 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="default_files/filelist.xml">
+<link rel=Edit-Time-Data href="default_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>dpap</o:Author>
+  <o:LastAuthor>dpap</o:LastAuthor>
+  <o:Revision>35</o:Revision>
+  <o:TotalTime>1004</o:TotalTime>
+  <o:Created>2013-10-12T14:45:00Z</o:Created>
+  <o:LastSaved>2013-11-09T16:24:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>1461</o:Words>
+  <o:Characters>8332</o:Characters>
+  <o:Lines>69</o:Lines>
+  <o:Paragraphs>19</o:Paragraphs>
+  <o:CharactersWithSpaces>9774</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=dataStoreItem href="default_files/item0008.xml"
+target="default_files/props0009.xml">
+<link rel=themeData href="default_files/themedata.thmx">
+<link rel=colorSchemeMapping href="default_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+h2
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	color:#3D6C87;
+	font-weight:bold;}
+h3
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 3 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	color:#3D6C87;
+	font-weight:bold;}
+h4
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 4 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	color:#3D6C87;
+	font-weight:bold;}
+h5
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 5 Char";
+	mso-style-next:Normal;
+	margin-top:10.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:11.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#243F60;
+	mso-themecolor:accent1;
+	mso-themeshade:127;
+	font-weight:normal;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#5F8EA9;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-noshow:yes;
+	mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-noshow:yes;
+	mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-noshow:yes;
+	mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-noshow:yes;
+	mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:18.0pt;
+	mso-bidi-font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#3D6C87;
+	font-weight:bold;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 3";
+	mso-ansi-font-size:13.5pt;
+	mso-bidi-font-size:13.5pt;
+	font-family:"Times New Roman","serif";
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#3D6C87;
+	font-weight:bold;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 4";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#3D6C87;
+	font-weight:bold;}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 5";
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#243F60;
+	mso-themecolor:accent1;
+	mso-themeshade:127;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;}
+p.auto-style2, li.auto-style2, div.auto-style2
+	{mso-style-name:auto-style2;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:96.75pt;
+	mso-margin-bottom-alt:auto;
+	margin-left:30.0pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.auto-style9, li.auto-style9, div.auto-style9
+	{mso-style-name:auto-style9;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:30.0pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.auto-style12, li.auto-style12, div.auto-style12
+	{mso-style-name:auto-style12;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.auto-style13, li.auto-style13, div.auto-style13
+	{mso-style-name:auto-style13;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:32.25pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.auto-style14, li.auto-style14, div.auto-style14
+	{mso-style-name:auto-style14;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:30.0pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Verdana","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.auto-style51
+	{mso-style-name:auto-style51;
+	mso-style-unhide:no;
+	font-family:"Verdana","sans-serif";
+	mso-ascii-font-family:Verdana;
+	mso-hansi-font-family:Verdana;}
+span.auto-style31
+	{mso-style-name:auto-style31;
+	mso-style-unhide:no;
+	font-weight:normal;}
+span.auto-style121
+	{mso-style-name:auto-style121;
+	mso-style-unhide:no;
+	color:black;}
+span.auto-style151
+	{mso-style-name:auto-style151;
+	mso-style-unhide:no;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;}
+span.auto-style71
+	{mso-style-name:auto-style71;
+	mso-style-unhide:no;
+	font-weight:normal;}
+span.auto-style91
+	{mso-style-name:auto-style91;
+	mso-style-unhide:no;
+	mso-ansi-font-size:13.5pt;
+	mso-bidi-font-size:13.5pt;
+	color:black;}
+span.auto-style101
+	{mso-style-name:auto-style101;
+	mso-style-unhide:no;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:342361499;
+	mso-list-type:hybrid;
+	mso-list-template-ids:793812768 717013966 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	color:#31849B;
+	mso-themecolor:accent5;
+	mso-themeshade:191;}
+@list l0:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:531260840;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1711694370 -1185412306 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	color:#31849B;
+	mso-themecolor:accent5;
+	mso-themeshade:191;
+	mso-ansi-font-weight:bold;}
+@list l2
+	{mso-list-id:737900387;
+	mso-list-type:hybrid;
+	mso-list-template-ids:191672212 1771446298 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l2:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	color:#31849B;
+	mso-themecolor:accent5;
+	mso-themeshade:191;
+	mso-ansi-font-weight:bold;}
+@list l2:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3
+	{mso-list-id:787507411;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1209845032 1676546482 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l3:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	color:#31849B;
+	mso-themecolor:accent5;
+	mso-themeshade:191;
+	mso-ansi-font-weight:bold;}
+@list l4
+	{mso-list-id:954675885;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-866346880 -674318134 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;
+	color:#4F81BD;
+	mso-themecolor:accent1;}
+@list l5
+	{mso-list-id:1042824271;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1221340030 -616897322 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l5:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	color:#31849B;
+	mso-themecolor:accent5;
+	mso-themeshade:191;}
+@list l5:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l5:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6
+	{mso-list-id:1201669842;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2001479610 -1930025284 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l6:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	color:#31849B;
+	mso-themecolor:accent5;
+	mso-themeshade:191;
+	mso-ansi-font-weight:bold;}
+@list l6:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7
+	{mso-list-id:1822769134;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-613411402 -1239768152 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l7:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	color:#31849B;
+	mso-themecolor:accent5;
+	mso-themeshade:191;
+	mso-ansi-font-weight:bold;}
+@list l7:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="6146"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#5F8EA9" vlink=purple style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+<table class=MsoNormalTable border=0 cellpadding=0 align=left width=539
+ style='width:404.0pt;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184;mso-table-lspace:
+ 9.35pt;margin-left:7.1pt;mso-table-rspace:9.35pt;margin-right:7.1pt;
+ mso-table-bspace:10.0pt;margin-bottom:7.75pt;mso-table-anchor-vertical:paragraph;
+ mso-table-anchor-horizontal:margin;mso-table-left:left;mso-table-top:22.5pt;
+ mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:211.15pt'>
+  <td width=266 valign=top style='width:199.75pt;padding:0in 0in 0in 0in;
+  height:211.15pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-outline-level:4;mso-element:frame;mso-element-frame-hspace:
+  9.35pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:margin;mso-element-top:22.5pt;mso-height-rule:
+  exactly'><span style='font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family:
+  "Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+  color:black;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+   coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+   filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1028" type="#_x0000_t75"
+   alt="http://dl.dropbox.com/u/7796025/Website/oldfiles/me2.jpg" style='width:164.25pt;
+   height:214.5pt;visibility:visible;mso-wrap-style:square'>
+   <v:imagedata src="default_files/image001.jpg" o:title="me2"/>
+  </v:shape><![endif]--><![if !vml]><img width=219 height=286
+  src="default_files/image002.jpg"
+  alt="http://dl.dropbox.com/u/7796025/Website/oldfiles/me2.jpg" v:shapes="Picture_x0020_1"><![endif]></span><span
+  style='font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif";
+  mso-fareast-font-family:"Times New Roman";color:black'><o:p></o:p></span></p>
+  </td>
+  <td width=266 style='width:199.75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
+  height:211.15pt'>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-outline-level:4;mso-element:frame;mso-element-frame-hspace:
+  9.35pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:margin;mso-element-top:22.5pt;mso-height-rule:
+  exactly'><span style='font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family:
+  "Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+  color:black'>Assistant Professor of Finance</span><span style='font-size:
+  13.5pt;font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+  color:black'><br>
+  </span><span style='font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family:
+  "Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+  color:black'>Kellogg<b> </b>School of Management</span><span
+  style='font-size:13.5pt;font-family:"Times New Roman","serif";mso-fareast-font-family:
+  "Times New Roman";color:black'><br>
+  </span><span style='font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family:
+  "Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+  color:black'>Northwestern University</span><span style='font-size:13.5pt;
+  font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+  color:black'><br>
+  </span><span style='font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family:
+  "Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+  color:black'>2001 Sheridan Road</span><span style='font-size:13.5pt;
+  font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+  color:black'><br>
+  </span><span style='font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family:
+  "Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+  color:black'>Jacobs 433</span><span style='font-size:13.5pt;font-family:"Times New Roman","serif";
+  mso-fareast-font-family:"Times New Roman";color:black'><br>
+  </span><span style='font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family:
+  "Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+  color:black'>Evanston<b> </b>IL, 60208</span><b><span style='font-size:12.0pt;
+  font-family:"Times New Roman","serif";mso-fareast-font-family:"Times New Roman";
+  color:#3D6C87'><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:9.35pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  margin;mso-element-top:22.5pt;mso-height-rule:exactly'><span
+  style='font-size:10.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:
+  "Times New Roman"'>Phone: <a href="skype:8474917704"><span style='mso-bidi-font-size:
+  11.0pt'>847-491-7704</span></a> <o:p></o:p></span></p>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-outline-level:4;mso-element:frame;mso-element-frame-hspace:
+  9.35pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:margin;mso-element-top:22.5pt;mso-height-rule:
+  exactly'><span style='font-size:13.0pt;font-family:"Times New Roman","serif";
+  mso-fareast-font-family:"Times New Roman";color:#3D6C87;mso-bidi-font-weight:
+  bold'><a href="mailto:d-papanikolaou@kellogg.northwestern.edu"><span
+  style='font-size:13.5pt;mso-bidi-font-size:11.0pt;color:blue'>email</span></a></span><span
+  style='font-size:12.0pt;font-family:"Times New Roman","serif";mso-fareast-font-family:
+  "Times New Roman";color:#3D6C87;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-outline-level:4;mso-element:frame;mso-element-frame-hspace:
+  9.35pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:margin;mso-element-top:22.5pt;mso-height-rule:
+  exactly'><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+  mso-fareast-font-family:"Times New Roman";color:#3D6C87;mso-bidi-font-weight:
+  bold'><a href="http://dl.dropbox.com/u/7796025/Website/CV/cv_current.pdf"><span
+  style='color:blue'>C</span></a><a
+  href="http://dl.dropbox.com/u/7796025/Website/CV/cv_current.pdf"><span
+  style='color:blue'>V</span></a><o:p></o:p></span></p>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-outline-level:4;mso-element:frame;mso-element-frame-hspace:
+  9.35pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:margin;mso-element-top:22.5pt;mso-height-rule:
+  exactly'><b><span style='font-size:12.0pt;font-family:"Times New Roman","serif";
+  mso-fareast-font-family:"Times New Roman";color:#3D6C87'>&nbsp;<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal'><span style='font-size:9.5pt;font-family:"Verdana","sans-serif";
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:.25in;text-align:center;line-height:normal;mso-outline-level:
+2'><b><span style='font-size:18.0pt;font-family:"Tahoma","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#3D6C87'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#31849B;mso-themecolor:accent5;mso-themeshade:191'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#31849B;mso-themecolor:accent5;mso-themeshade:191'>Publications<o:p></o:p></span></b></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-indent:-.25in;line-height:normal;mso-outline-level:3;mso-list:l0 level1 lfo2'><![if !supportLists]><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:Tahoma;color:#31849B;mso-themecolor:
+accent5;mso-themeshade:191'><span style='mso-list:Ignore'>1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></b><![endif]><b><span
+style='font-size:14.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:black;mso-themecolor:text1'>Investment Shocks and Asset
+Prices </span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:black;mso-themecolor:text1'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>[<a
+href="https://dl.dropboxusercontent.com/u/7796025/Website/InvTech.pdf"><span
+style='color:blue'>Paper</span></a>] [<a href="InvTech_APP9.pdf"><span
+style='color:blue'>Web Appendix</span></a>]<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>Capital embodied technology shocks lead to high marginal
+utility states, as investors substitute consumption for investment. Stock
+returns of firms producing investment and consumption goods help infer
+realizations of capital-embodied shocks in the data.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>Journal of Political Economy, August 2011, 119(4), 639-685<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-indent:-.25in;line-height:normal;mso-outline-level:4;mso-list:l0 level1 lfo2'><![if !supportLists]><b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+Tahoma;color:#31849B;mso-themecolor:accent5;mso-themeshade:191'><span
+style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";color:black;
+mso-themecolor:text1'>Investment, Idiosyncratic Risk, and Ownership </span></b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>(with <a
+href="http://www.federalreserve.gov/research/staff/panousivasiax.htm"><span
+class=SpellE><span style='color:blue'>Vasia</span></span><span
+style='color:blue'> <span class=SpellE>Panousi</span></span></a>)<b><o:p></o:p></b></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>[<a
+href="https://dl.dropboxusercontent.com/u/7796025/Website/PanPapPaper.pdf"><span
+style='color:blue'>Paper</span></a>] [<a href="PanPapWEBAPP.pdf"><span
+style='color:blue'>Web Appendix</span></a>] <o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:38.0pt;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Managers
+typically own undiversified stakes in firms for incentive reasons. Managers'
+exposure to idiosyncratic risk affects their optimal investment decisions.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Journal of
+Finance, June 2012, 67(3)<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-indent:-.25in;line-height:normal;mso-outline-level:4;mso-list:l0 level1 lfo2'><![if !supportLists]><b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+Tahoma;color:#31849B;mso-themecolor:accent5;mso-themeshade:191'><span
+style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";color:black;
+mso-themecolor:text1'>Organization Capital and the Cross-Section of Expected
+Returns </span></b><span style='font-size:12.0pt;font-family:"Tahoma","sans-serif";
+mso-fareast-font-family:"Times New Roman"'>(with <a
+href="http://www.anderson.ucla.edu/x33175.xml"><span style='color:blue'>Andrea <span
+class=SpellE>Eisfeldt</span></span></a>)<b><o:p></o:p></b></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>[<a
+href="http://dl.dropbox.com/u/7796025/Website/org_cap.pdf"><span
+style='color:blue'>Paper</span></a>] [<a
+href="http://dl.dropbox.com/u/7796025/Website/org_cap_APP.pdf"><span
+style='color:blue'>Web Appendix</span></a>] <o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Key talent and
+shareholders share the rents from organization capital. This sharing rule is
+stochastic, as it depends on the managers' outside option, which itself is a
+function of the investment opportunities in the economy. From shareholders'
+perspective, organization capital is exposed to additional risks, hence firms'
+with more organization capital have higher risk <span class=SpellE>premia</span>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Journal of
+Finance, August 2013, 68(4)<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:38.0pt;text-indent:-.25in;line-height:normal;mso-outline-level:
+4;mso-list:l0 level1 lfo2'><![if !supportLists]><b><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:Tahoma;color:#31849B;
+mso-themecolor:accent5;mso-themeshade:191'><span style='mso-list:Ignore'>4.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></b><![endif]><b><span
+style='font-size:14.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:black;mso-themecolor:text1'>Growth Opportunities,
+Technology Shocks and Asset Prices </span></b><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>(with
+<b><a href="http://web.mit.edu/lkogan2/www/"><span style='color:blue;
+font-weight:normal'>Leonid <span class=SpellE>Kogan</span></span></a></b>)<b><span
+style='color:#3D6C87'><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:38.0pt;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>[<a
+href="http://dl.dropbox.com/u/7796025/Website/GrowthOpt.pdf"><span
+style='color:blue'>Paper</span></a>] [<a
+href="http://dl.dropbox.com/u/7796025/Website/GrowthOpt_APP.pdf"><span
+style='color:blue'>Web Appendix</span></a>] <o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:38.0pt;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Firms'
+beta with a portfolio of investment minus consumption good producers is
+correlated with the share of growth opportunities to firm value. Value and
+growth firms vary in their share of growth opportunities to firm value, and
+hence in their exposure to capital-embodied shocks. The model generates the
+value premium, the value factor, and the failure of the CAPM in the data.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:38.0pt;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Journal
+of Finance, forthcoming&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-indent:-.25in;line-height:normal;mso-outline-level:4;mso-list:l0 level1 lfo2'><![if !supportLists]><b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+Tahoma;color:#31849B;mso-themecolor:accent5;mso-themeshade:191'><span
+style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";color:black;
+mso-themecolor:text1'>Firm Characteristics and Stock Returns: The Role of
+Investment-Specific Shocks </span></b><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>(with <b><a
+href="http://web.mit.edu/lkogan2/www/"><span style='color:blue;font-weight:
+normal'>Leonid <span class=SpellE>Kogan</span></span></a>)<o:p></o:p></b></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>[<a
+href="http://dl.dropbox.com/u/7796025/Website/GrowthOpt2.pdf">Paper</a>] [<a
+href="http://dl.dropbox.com/u/7796025/Website/GrowthOpt2_APP.pdf">Web Appendix</a>]<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;margin-right:64.5pt;
+mso-margin-bottom-alt:auto;margin-left:.5in;line-height:normal'><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:black'>A number of existing cross-sectional anomalies -
+investment, Q, profitability, idiosyncratic volatility, and market beta share a
+common explanation. These characteristics are correlated with the share of
+growth opportunities to firm value and thus with firms' exposures to
+capital-embodied shocks. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;margin-right:64.5pt;
+mso-margin-bottom-alt:auto;margin-left:35.0pt;line-height:normal'><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:black'>Review of Financial Studies, forthcoming<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-indent:-.25in;line-height:normal;mso-outline-level:4;mso-list:l0 level1 lfo2'><![if !supportLists]><b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+Tahoma;color:#31849B;mso-themecolor:accent5;mso-themeshade:191'><span
+style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";color:black;
+mso-themecolor:text1'>Portfolio Choice with Illiquid Assets </span></b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>(with <b><a href="http://www.columbia.edu/%7Eaa610/"><span
+style='color:blue;font-weight:normal'>Andrew <span class=SpellE>Ang</span></span></a>
+</b>and<b> <a href="http://www.markwesterfield.com/"><span style='color:blue;
+font-weight:normal'>Mark <span class=SpellE>Westerfield</span></span></a></b>) <b><o:p></o:p></b></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>[<a
+href="https://dl.dropboxusercontent.com/u/7796025/Website/APW-Liquidity.pdf"><span
+style='color:blue'>Paper</span></a>]<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>We model
+illiquidity risk as the random arrival of trading opportunities. Illiquidity
+risk has a substantially larger effect on utility and portfolio policies than
+illiquidity that is deterministic. We extend the model to incorporate
+infrequent illiquidity crisis and characterize the illiquidity risk premium.
+Illiquidity risk leads to limited arbitrage even in normal times.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Management
+Science, forthcoming<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>winner of
+Roger F Murray Prize (second place), Q Group<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:3'><b><span
+style='font-size:13.5pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'>&nbsp;<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'>Other Publications<o:p></o:p></span></b></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-indent:-.25in;line-height:normal;mso-outline-level:4;mso-list:l5 level1 lfo4'><![if !supportLists]><b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+Tahoma;color:#31849B;mso-themecolor:accent5;mso-themeshade:191'><span
+style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";color:black;
+mso-themecolor:text1'>Growth Opportunities and Technology Shocks </span></b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>(with <a href="http://web.mit.edu/lkogan2/www/"><span
+style='color:blue'>Leonid <span class=SpellE>Kogan</span></span></a>)<b><o:p></o:p></b></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>[<a
+href="https://dl.dropboxusercontent.com/u/7796025/Website/gro_opt_PP.pdf"><span
+style='color:blue'>Paper</span></a>]&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Firms' beta
+with a portfolio of investment minus consumption good producers is correlated
+with the share of growth opportunities to firm value.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>American
+Economic Review, Papers and Proceedings, May 2010, 100(2), 532-536<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;margin-right:64.5pt;
+mso-margin-bottom-alt:auto;text-indent:-.25in;line-height:normal;mso-outline-level:
+4;mso-list:l5 level1 lfo4'><![if !supportLists]><b><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:Tahoma;color:#31849B;
+mso-themecolor:accent5;mso-themeshade:191'><span style='mso-list:Ignore'>2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></b><![endif]><b><span
+style='font-size:14.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:black;mso-themecolor:text1'>Economic Activity of Firms
+and Asset Prices </span></b><span style='font-size:12.0pt;font-family:"Tahoma","sans-serif";
+mso-fareast-font-family:"Times New Roman"'>(with <b><a
+href="http://web.mit.edu/lkogan2/www/"><span style='color:blue;font-weight:
+normal'>Leonid <span class=SpellE>Kogan</span></span></a></b>)<b><o:p></o:p></b></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>[<a
+href="http://www.annualreviews.org/doi/pdf/10.1146/annurev-financial-110311-101731"><span
+style='color:blue'>Paper</span></a>]&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:38.0pt;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>A
+survey of the literature on asset pricing models where production is modeled
+explicitly.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:38.0pt;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Annual
+Review of Financial Economics, 2012, <span class=SpellE>Vol</span> 4, 361-384<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'>Working Papers<o:p></o:p></span></b></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;text-indent:-.25in;line-height:normal;mso-outline-level:
+4;mso-list:l6 level1 lfo6'><![if !supportLists]><b><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:Tahoma;color:#31849B;
+mso-themecolor:accent5;mso-themeshade:191'><span style='mso-list:Ignore'>1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></b><![endif]><b><span
+style='font-size:14.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:black;mso-themecolor:text1'>Adverse Selection, Slow
+Moving Capital and Misallocation </span></b><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>(with
+<a href="http://faculty.haas.berkeley.edu/bgreen/">Brett Green</a> and <a
+href="https://sites.google.com/site/wfuchs/research">Willie Fuchs</a>)<b><span
+style='color:#3D6C87'><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;text-align:justify;line-height:normal'><span style='font-size:
+12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'><a
+href="https://dl.dropboxusercontent.com/u/7796025/Website/fgp2013.pdf">[Paper (<span
+class=SpellE>ver</span> 10/2013)</a>]<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;text-align:justify;line-height:normal'><span style='font-size:
+12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>We
+incorporate an informational asymmetry in a macro model. Adverse
+selection&nbsp; leads to slow moving capital, lagged investment and persistent misallocation
+of resources. The model generates a rich set of dynamics and provides a
+micro-foundation for convex adjustment costs.<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;text-indent:-.25in;line-height:normal;mso-outline-level:
+4;mso-list:l6 level1 lfo6'><![if !supportLists]><b><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:Tahoma;color:#31849B;
+mso-themecolor:accent5;mso-themeshade:191'><span style='mso-list:Ignore'>2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></b><![endif]><b><span
+style='font-size:14.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:black;mso-themecolor:text1'>Innovation Cycles </span></b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>(with<b><span style='color:blue'> </span></b><span
+style='color:blue'><a href="http://people.mcgill.ca/jiro.kondo/"><span
+class=SpellE>Jiro</span> E. Kondo</a></span>)<b><span style='color:#3D6C87'><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;text-align:justify;line-height:normal'><span style='font-size:
+12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'><a
+href="https://dl.dropbox.com/u/7796025/Website/KPcycles.pdf">[Paper (<span
+class=SpellE>ver</span> 03/2013)</a>]<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:38.25pt;text-align:justify;line-height:normal'><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>We embed frictions in the sale of ideas in a relatively
+standard real business cycle model. News about future technologies improve the
+pool of supplied ideas and the marginal efficiency of investment. Our model
+generates positive <span class=SpellE>comovement</span> of investment,
+consumption and labor supply in response to news about future technologies.<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;margin-right:96.75pt;
+mso-margin-bottom-alt:auto;text-align:justify;text-indent:-.25in;line-height:
+normal;mso-outline-level:4;mso-list:l6 level1 lfo6'><![if !supportLists]><b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+Tahoma;color:#31849B;mso-themecolor:accent5;mso-themeshade:191'><span
+style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";color:black;
+mso-themecolor:text1'>Technological Innovation: Winners and Losers </span></b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>(with <b><a href="http://web.mit.edu/lkogan2/www/"><span
+style='color:blue;font-weight:normal'>Leonid <span class=SpellE>Kogan</span></span></a></b>
+and <b><a href="http://kelley.iu.edu/nstoffma/"><span style='color:blue;
+font-weight:normal'>Noah <span class=SpellE>Stoffman</span></span></a></b>)<b><span
+style='color:#3D6C87'><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;margin-right:96.75pt;
+mso-margin-bottom-alt:auto;margin-left:.5in;text-align:justify;line-height:
+normal'><span style='font-size:12.0pt;font-family:"Tahoma","sans-serif";
+mso-fareast-font-family:"Times New Roman"'>[<a
+href="https://dl.dropbox.com/u/7796025/Website/KPS_GE.pdf">Paper (<span
+class=SpellE>ver</span> 12/2012)</a>]<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;margin-right:96.75pt;
+mso-margin-bottom-alt:auto;margin-left:.5in;text-align:justify;line-height:
+normal'><span style='font-size:12.0pt;font-family:"Tahoma","sans-serif";
+mso-fareast-font-family:"Times New Roman"'>Capital-embodied shocks displace existing
+shareholders at the benefit of workers and future generations. Financial market
+participants are willing to `overpay' to hold innovative firms (growth firms)
+to hedge displacement.<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;text-indent:-.25in;line-height:normal;mso-outline-level:
+4;mso-list:l6 level1 lfo6'><![if !supportLists]><b style='mso-bidi-font-weight:
+normal'><span style='font-size:12.0pt;font-family:"Tahoma","sans-serif";
+mso-fareast-font-family:Tahoma;color:#31849B;mso-themecolor:accent5;mso-themeshade:
+191'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";color:black;
+mso-themecolor:text1'>Technological Innovation, Resource Allocation and Growth </span></b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>(with <b><a href="http://web.mit.edu/lkogan2/www/"><span
+style='color:blue;font-weight:normal'>Leonid <span class=SpellE>Kogan</span></span></a></b>,
+<b><a href="http://faculty.chicagobooth.edu/amit.seru/"><span class=SpellE><span
+style='color:blue;font-weight:normal'>Amit</span></span><span style='color:
+blue;font-weight:normal'> <span class=SpellE>Seru</span></span></a></b>, and <b><a
+href="http://kelley.iu.edu/nstoffma/"><span style='color:blue;font-weight:normal'>Noah
+<span class=SpellE>Stoffman</span></span></a></b>)<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>[<a
+href="http://dl.dropbox.com/u/7796025/Website/KPSS_patents.pdf">Paper (ver.
+07/2012)</a>] [<a
+href="http://dl.dropbox.com/u/7796025/Website/KPSS_patents_APP.pdf">Web
+Appendix</a>] [<a
+href="http://faculty.chicagobooth.edu/amit.seru/research/data.html">Data</a>]<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='font-size:12.0pt;
+line-height:115%;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>We construct a measure of innovation combining data on
+patents and stock returns. We weigh patents by the stock market reaction of
+firms to which the patent is granted.<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Journal
+of Political Economy, revision requested<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>winner
+of <a
+href="https://content.putnam.com/content/assembler/Panagora/panagora/html/research/crowell_prize/crowell_prize.htm">Crowell
+Memorial Prize</a> (second place),&nbsp; <span class=SpellE>Panagora</span>
+Asset Management<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;text-indent:-.25in;line-height:normal;mso-outline-level:
+4;mso-list:l6 level1 lfo6'><![if !supportLists]><b style='mso-bidi-font-weight:
+normal'><span style='font-size:12.0pt;font-family:"Tahoma","sans-serif";
+mso-fareast-font-family:Tahoma;color:#31849B;mso-themecolor:accent5;mso-themeshade:
+191'><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";color:black;
+mso-themecolor:text1'>Financial Relationships and the Limits to Arbitrage </span></b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>(with<b><span style='color:blue'> </span></b><span
+style='color:blue'><a href="http://people.mcgill.ca/jiro.kondo/"><span
+class=SpellE>Jiro</span> E. Kondo</a></span>)<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>[<a
+href="https://dl.dropboxusercontent.com/u/7796025/Website/kplimits.pdf"><span
+style='color:blue'>Paper (ver. 08/2011)</span></a>]<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Arbitrage
+ideas are difficult to finance because they can be stolen by the lender. In a
+repeated game, limited commitment by financiers leads to underinvestment in the
+best ideas. Our model generates endogenous limits to arbitrage.<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>Review
+of Finance, revision requested<b><span style='color:#3D6C87'>&nbsp;<o:p></o:p></span></b></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;line-height:normal'><b><span style='font-size:14.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:black;mso-themecolor:text1'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'>Work in progress<o:p></o:p></span></b></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;text-indent:-.25in;line-height:normal;mso-outline-level:
+4;mso-list:l2 level1 lfo8'><![if !supportLists]><b style='mso-bidi-font-weight:
+normal'><span style='font-size:12.0pt;font-family:"Tahoma","sans-serif";
+mso-fareast-font-family:Tahoma;color:#31849B;mso-themecolor:accent5;mso-themeshade:
+191'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+</span></span></span></b><![endif]><b><span style='font-size:14.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";color:black;
+mso-themecolor:text1'>Dissecting Aggregate Risk </span></b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>(with <a href="http://web.mit.edu/lkogan2/www/"><span
+style='color:blue'>Leonid <span class=SpellE>Kogan</span></span></a>)<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;line-height:normal'><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>The
+composition between assets in place and growth opportunities determines
+volatility, both at the aggregate as well as at the firm level.</span><b><span
+style='font-size:14.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:black;mso-themecolor:text1'><o:p></o:p></span></b></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;text-indent:-.25in;line-height:normal;mso-outline-level:
+4;mso-list:l2 level1 lfo8'><![if !supportLists]><b><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:Tahoma;color:#31849B;
+mso-themecolor:accent5;mso-themeshade:191'><span style='mso-list:Ignore'>2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></b><![endif]><b><span
+style='font-size:14.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:black;mso-themecolor:text1'>Sources of Systematic Risk </span></b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>(with <b><a href="http://faculty.london.edu/imakarov/"><span
+style='color:blue;font-weight:normal'>Igor <span class=SpellE>Makarov</span></span></a></b>
+and <a href="http://scheller.gatech.edu/directory/faculty/kim.s/index.html"><span
+class=SpellE>Soohun</span> Kim</a>)<b><span style='color:#3D6C87'><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;text-align:justify;line-height:normal'><span style='font-size:
+12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>[Updated
+version coming soon. See older version <a
+href="https://dl.dropbox.com/u/7796025/Website/sys_risk.pdf">here</a>]<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;text-align:justify;line-height:normal'><span style='font-size:
+12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>If
+returns are <span class=SpellE>heteroskedastic</span>, factors can be
+identified up to a sign permutation. We apply our methodology in studying the
+determinants of <span class=SpellE>comovement</span> in industry portfolios. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;text-align:justify;line-height:normal'><span style='font-size:
+12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'>winner
+of <a
+href="https://content.putnam.com/content/assembler/Panagora/panagora/html/research/crowell_prize/crowell_prize.htm">Crowell
+Memorial Prize</a> (second place),&nbsp; <span class=SpellE>Panagora</span>
+Asset Management<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;text-align:justify;line-height:normal'><span style='font-size:
+12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'><script  type="text/javascript">
+var sc_project=5197368;
+var sc_invisible=1;
+var sc_partition=49;
+var sc_click_stat=1;
+var sc_security="8bbb3a6b";
+</script><script  type="text/javascript" src="http://www.statcounter.com/counter/counter.js">
+</script></span><span style='color:blue;mso-no-proof:yes'><img border=0
+width=1 height=1 id="_x0000_i1027"
+src="http://c.statcounter.com/5197368/0/8bbb3a6b/1/"
+alt="myspace profile view counter"></span><b><span style='font-size:18.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";
+color:#3D6C87'>Other<o:p></o:p></span></b></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;text-indent:-.25in;line-height:normal;mso-outline-level:
+4;mso-list:l4 level1 lfo12'><![if !supportLists]><span style='font-size:12.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;
+color:#4F81BD;mso-themecolor:accent1'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='font-size:14.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";color:black;
+mso-themecolor:text1'>Discussions</span></b><span style='font-size:12.0pt;
+font-family:"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;line-height:normal;mso-outline-level:4'><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>For a list of past discussions, along with my slides please
+see <a
+href="https://dl.dropboxusercontent.com/u/7796025/Website/discussions.html">here</a>.<o:p></o:p></span></p>
+
+<p class=MsoListParagraph style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:justify;text-indent:-.25in;line-height:normal;mso-outline-level:
+4;mso-list:l4 level1 lfo12'><![if !supportLists]><span style='font-size:12.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;
+color:#4F81BD;mso-themecolor:accent1'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='font-size:14.0pt;font-family:
+"Tahoma","sans-serif";mso-fareast-font-family:"Times New Roman";color:black;
+mso-themecolor:text1'>Seminars and Conferences </span></b><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal;mso-outline-level:2'><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>For the seminar schedule for the Kellogg Innovation and
+Entrepreneurship seminar please see here (<a
+href="https://dl.dropboxusercontent.com/u/7796025/Website/KIE.html">2013</a>,
+2014).<o:p></o:p></span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.5in;line-height:normal;mso-outline-level:2'><span
+style='font-size:12.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman"'>For the schedule for the Kellogg Junior Finance Conference
+please see here (<a
+href="https://dl.dropboxusercontent.com/u/7796025/Website/FinanceConf_2012.html">2012</a>,
+<a
+href="https://dl.dropboxusercontent.com/u/7796025/Website/FinanceConf_2013.html">2013</a>).
+</span><b><span style='font-size:18.0pt;font-family:"Tahoma","sans-serif";
+mso-fareast-font-family:"Times New Roman";color:#3D6C87'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:.25in;line-height:normal;mso-outline-level:2'><b><span
+style='font-size:18.0pt;font-family:"Tahoma","sans-serif";mso-fareast-font-family:
+"Times New Roman";color:#3D6C87'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<link href="styles/style2.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.auto-style1 {
+	margin-left: 160px;
+	font-family: Verdana;
+	font-size: xx-large;
+}
+.auto-style2 {
+	margin-right: 129px;
+}
+.auto-style3 {
+	margin-right: 73;
+}
+.auto-style4 {
+	font-size: small;
+}
+</style>
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container" class="auto-style2" style="width: 967px; height: 1613px">
+	<!-- Begin Masthead -->
+	<div id="masthead" style="background: #FFFFFF; width: 958px">
+		<h1 class="auto-style1" style="width: 614px">Dimitris Papanikolaou</h1>
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation" style="background: #FFFFFF; left: 0px; top: 0px; height: 243px">
+		<ul class="auto-style4" style="height: 218px; width: 93%">
+			<li><a href="default.html"><strong>About</strong></a></li>
+			<li><a href="research/pub.html"><strong>Publications</strong></a></li>
+			<li><a href="research/wp.html"><strong>Working papers</strong></a></li>
+			<li><a href="tteaching/default.html"><strong>Teaching</strong></a></li>
+			<li><a href="other/default.html"><strong>Other</strong></a></li>
+		</ul>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Content -->
+	<div id="content" class="auto-style3" style="width: 778px; height: 2306px">
+		<!-- #BeginEditable "content" -->
+		<!-- #EndEditable "content" --></div>
+	<!-- End Content -->
+	<!-- Begin Footer -->
+	<!-- End Footer --></div>
+<!-- End Container -->
+
+</body>
+
+</html>

@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>website</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h1>Dimitris Papanikolaou</h1>
+<p><img src="https://dl.dropboxusercontent.com/u/7796025/Website/default_files/image003.jpg" /></p>
+<h3>Associate Professor of Finance,</h3>
+<p>Kellogg School of Management, Northwestern University<br />
+2001 Sheridan Road, Jacobs 433, Evanston IL, 60208<br />
+<a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;:&#100;&#45;&#112;&#97;&#x70;&#97;&#x6e;&#105;&#x6b;&#x6f;l&#x61;&#111;&#117;&#x40;&#x6b;&#101;&#108;&#x6c;&#x6f;&#103;&#103;&#x2e;&#110;&#x6f;&#x72;&#x74;&#104;&#119;&#101;&#115;t&#101;&#x72;&#110;&#x2e;&#101;&#x64;&#x75;">&#x65;&#x6d;&#x61;&#105;l</a><br />
+<a href="http://dl.dropbox.com/u/7796025/Website/CV/cv_current.pdf">CV</a> </p>
+<h2>Working Papers</h2>
+<h3>1.	Winners and Losers: Creative Destruction and the Stock Market (with <a href="http://web.mit.edu/lkogan2/www/">Leonid Kogan</a> and <a href="http://kelley.iu.edu/nstoffma/">Noah Stoffman</a>)</h3>
+<p>We develop a general equilibrium model of asset prices in which the benefits of technological innovation are distributed asymmetrically. Financial market participants do not capture all the economic rents resulting from innovative activity, even when they own shares in innovating firms. Economic gains from innovation accrue partly to the innovators, who cannot sell claims on the rents their future ideas will generate. The model implies that improvements in technology can lower households' indirect utility. The resulting hedging motives can give rise to a value premium. Major revision of previous version, titled ``Technological Innovation: Winners and Losers''  </p>
+<h5>Journal of Political Economy, revision requested</h5>
+<p>[<a href="https://dl.dropbox.com/u/7796025/Website/KPS_GE.pdf">Paper</a>  (ver. 06/2016)] [<a href="http://dl.dropbox.com/u/7796025/Website/WebAppendix_KPS_2015.pdf">Web Appendix</a>]</p>
+<h3>2. Financial Frictions and Employment during the Great Depression (with <a href="https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim.aspx">Efraim Benmelech</a> and <a href="http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx">Carola Frydman</a>)</h3>
+<p>We document the response of firm-level employment to an exogenous shock to firm financing needs during the Great Depression.</p>
+<p>[<a href="https://dl.dropboxusercontent.com/u/7796025/Website/GD_bfp.pdf">Paper</a>  (ver. 01/2017)] [<a href="https://dl.dropboxusercontent.com/u/7796025/Website/GD_OA.pdf">Web Appendix</a>]</p>
+<h3>3.	Cooperation Cycles: A theory of endogenous investment shocks (with <a href="http://people.mcgill.ca/jiro.kondo/">Jiro E. Kondo</a>)</h3>
+<p>We embed frictions in the sale of ideas in a relatively standard real business cycle model. News about future technologies improve the pool of supplied ideas and the marginal efficiency of investment. Our model generates positive comovement of investment, consumption and labor supply in response to news about future technologies.<br />
+[<a href="https://dl.dropbox.com/u/7796025/Website/KPcycles.pdf">Paper</a>  (ver. 01/2015)]</p>
+<h2>Publications</h2>
+<h3>1. Investment Shocks and Asset Prices</h3>
+<h5>Journal of Political Economy, August 2011, 119(4), 639-685</h5>
+<p>Capital embodied technology shocks lead to high marginal utility states, as investors substitute consumption for investment. Stock returns of firms producing investment and consumption goods help infer realizations of capital-embodied shocks in the data.<br />
+[<a href="https://dl.dropboxusercontent.com/u/7796025/Website/InvTech.pdf">Paper</a>]
+[<a href="https://dl.dropboxusercontent.com/u/7796025/Website/InvTech_APP9.pdf">Web Appendix</a>]</p>
+<h3>2. Investment, Idiosyncratic Risk, and Ownership  (with <a href="http://www.federalreserve.gov/econresdata/vasia-panousi.htm">Vasia Panousi</a>)</h3>
+<h5>Journal of Finance, June 2012, 67(3)</h5>
+<p>Managers typically own undiversified stakes in firms for incentive reasons. Managers' exposure to idiosyncratic risk affects their optimal investment decisions.<br />
+[<a href="https://dl.dropboxusercontent.com/u/7796025/Website/PanPapPaper.pdf">Paper</a>]
+[<a href="https://dl.dropboxusercontent.com/u/7796025/Website/PanPapWEBAPP.pdf">Web Appendix</a>]</p>
+<h3>3.	Organization Capital and the Cross-Section of Expected Returns (with <a href="http://www.anderson.ucla.edu/x33175.xml">Andrea Eisfeldt</a>)</h3>
+<h5>Journal of Finance, August 2013, 68(4)</h5>
+<h6>Winner of the 2013 Amundi Smith Breeden Prize (First Prize)</h6>
+<p>Key talent and shareholders share the rents from organization capital. This sharing rule is stochastic, as it depends on the managers' outside option, which itself is a function of the investment opportunities in the economy. From shareholders' perspective, organization capital is exposed to additional risks, hence firms' with more organization capital have higher risk premia.<br />
+[<a href="http://dl.dropbox.com/u/7796025/Website/org_cap.pdf">Paper</a>]
+[<a href="http://dl.dropbox.com/u/7796025/Website/org_cap_APP.pdf">Web Appendix</a>] </p>
+<h3>4.	Growth Opportunities, Technology Shocks and Asset Prices (with <a href="http://web.mit.edu/lkogan2/www/">Leonid Kogan</a>)</h3>
+<h5>Journal of Finance, April 2014, 69(2)</h5>
+<h6>Winner of the 2014 Amundi Smith Breeden Prize (First Prize)</h6>
+<p>Firms' beta with a portfolio of investment minus consumption good producers is correlated with the share of growth opportunities to firm value. Value and growth firms vary in their share of growth opportunities to firm value, and hence in their exposure to capital-embodied shocks. The model generates the value premium, the value factor, and the failure of the CAPM in the data.<br />
+[<a href="http://dl.dropbox.com/u/7796025/Website/GrowthOpt.pdf">Paper</a>] [<a href="http://dl.dropbox.com/u/7796025/Website/GrowthOpt_APP.pdf">Web Appendix</a>] </p>
+<h3>5.	Firm Characteristics and Stock Returns: The Role of Investment-Specific Shocks (with <a href="http://web.mit.edu/lkogan2/www/">Leonid Kogan</a>)</h3>
+<h5>Review of Financial Studies, 2013, 26(11)</h5>
+<p>A number of existing cross-sectional anomalies - investment, Q, profitability, idiosyncratic volatility, and market beta share a common explanation. These characteristics are correlated with the share of growth opportunities to firm value and thus with firms' exposures to capital-embodied shocks.<br />
+[<a href="http://dl.dropbox.com/u/7796025/Website/GrowthOpt2.pdf">Paper</a>] [<a href="http://dl.dropbox.com/u/7796025/Website/GrowthOpt2_APP.pdf">Web Appendix</a>]</p>
+<h3>6.	Portfolio Choice with Illiquid Assets (with <a href="http://www.columbia.edu/~aa610/">Andrew Ang</a> and <a href="http://www.markwesterfield.com/">Mark Westerfield</a>)</h3>
+<h5>Management Science, 2014, 60(11)</h5>
+<h6>Winner of the 2011 Roger F Murray Prize (Second Prize), Q Group</h6>
+<p>We model illiquidity risk as the random arrival of trading opportunities. Illiquidity risk has a substantially larger effect on utility and portfolio policies than illiquidity that is deterministic. We extend the model to incorporate infrequent illiquidity crisis and characterize the illiquidity risk premium. Illiquidity risk leads to limited arbitrage even in normal times.<br />
+[<a href="https://dl.dropboxusercontent.com/u/7796025/Website/APW-Liquidity.pdf">Paper</a>]</p>
+<h3>7. Financial Relationships and the Limits to Arbitrage (with <a href="https://sites.google.com/site/jiroekondo/">Jiro E. Kondo</a>)</h3>
+<h5>Review of Finance, 2015,  19(6)</h5>
+<p>Arbitrage ideas are difficult to finance because they can be stolen by the lender. In a repeated game, limited commitment by financiers leads to underinvestment in the best ideas. Our model generates endogenous limits to arbitrage.<br />
+[<a href="https://dl.dropboxusercontent.com/u/7796025/Website/kplimits.pdf">Paper</a>]</p>
+<h3>8.	Adverse Selection, Slow Moving Capital and Misallocation (with <a href="http://faculty.haas.berkeley.edu/bgreen/">Brett Green</a> and <a href="https://sites.google.com/site/wfuchs/research">Willie Fuchs</a>)</h3>
+<h5>Journal of Financial Economics, 2016 120(2)</h5>
+<p>We incorporate an informational asymmetry in a macro model. Adverse selection  leads to slow moving capital, lagged investment and persistent misallocation of resources. The model generates a rich set of dynamics and provides a micro-foundation for convex adjustment costs.<br />
+[<a href="https://dl.dropboxusercontent.com/u/7796025/Website/fgp2013.pdf">Paper</a>]</p>
+<h3>9. Long-run Bulls and Bears (with <a href="http://ruialbuquerque.webs.com/">Rui Albuquerque</a>, <a href="http://faculty.wcas.northwestern.edu/~yona/">Martin Eichenbaum</a>, and <a href="http://www.kellogg.northwestern.edu/faculty/rebelo/htm/research.html">Sergio Rebelo</a>)</h3>
+<h5>Journal of Monetary Economics, 2015, 76(S)</h5>
+<p>A central challenge in asset pricing is the weak connection between stock returns and observable economic fundamentals. We provide evidence that this connection
+is stronger than previously thought.<br />
+[<a href="https://dl.dropbox.com/u/7796025/Website/BoomsBusts.pdf">Paper</a>]</p>
+<h3>10.	Technological Innovation, Resource Allocation and Growth (with <a href="http://web.mit.edu/lkogan2/www/">Leonid Kogan</a>, <a href="http://faculty.chicagobooth.edu/amit.seru/">Amit Seru</a>, and <a href="http://kelley.iu.edu/nstoffma/">Noah Stoffman</a>)</h3>
+<h5>Quarterly Journal of Economics, forthcoming</h5>
+<h6>Winner of Crowell Memorial Prize (second place),  Panagora Asset Management</h6>
+<p>We construct a measure of innovation combining data on patents and stock returns. We weigh patents by the stock market reaction of firms to which the patent is granted.<br />
+[<a href="http://dl.dropbox.com/u/7796025/Website/KPSS_patents.pdf">Paper</a> (ver. 03/2016)] 
+[<a href="http://dl.dropbox.com/u/7796025/Website/KPSS_patents_APP.pdf">Web Appendix</a>]
+[<a href="https://iu.app.box.com/v/patents">Data</a>] </p>
+<h3>11. In Search of Ideas: Technological Innovation and Executive Pay Inequality  (with <a href="http://www.kellogg.northwestern.edu/faculty/directory/frydman_carola.aspx">Carola Frydman</a>)</h3>
+<p>We build and estimate general equilibrium model of executive pay and firm growth. Executives add value to the firm not only by participating in production decisions, but also by identifying new investment opportunities.   </p>
+<h5>Journal of Financial Economics, forthcoming</h5>
+<p>[<a href="https://dl.dropbox.com/u/7796025/Website/FP_executives.pdf">Paper</a> (ver. 10/2016)] [<a href="http://dl.dropbox.com/u/7796025/Website/WebAppendix_FP.pdf">Web Appendix</a>]</p>
+<h2>Other Publications</h2>
+<h3>1.	Growth Opportunities and Technology Shocks (with <a href="http://web.mit.edu/lkogan2/www/">Leonid Kogan</a>)</h3>
+<h5>American Economic Review, Papers and Proceedings, May 2010, 100(2), 532-536</h5>
+<p>Firms' beta with a portfolio of investment minus consumption good producers is correlated with the share of growth opportunities to firm value.<br />
+[<a href="https://dl.dropboxusercontent.com/u/7796025/Website/gro_opt_PP.pdf">Paper</a>] </p>
+<h3>2.	Economic Activity of Firms and Asset Prices (with <a href="http://web.mit.edu/lkogan2/www/">Leonid Kogan</a>)</h3>
+<h5>Annual Review of Financial Economics, 2012, Vol 4, 361-384</h5>
+<p>A survey of the literature on asset pricing models where production is modeled explicitly.<br />
+[<a href="http://www.annualreviews.org/doi/pdf/10.1146/annurev-financial-110311-101731">Paper</a>]</p>
+<h3>3.	The Value and Ownership of Intangible Capital (with <a href="http://www.anderson.ucla.edu/x33175.xml">Andrea Eisfeldt</a>)</h3>
+<h5>American Economic Review, Papers and Proceedings, May 2014, 104(5)</h5>
+<p>Imputing intangible capital from market values misses the value of capital that is embodied in key labor inputs. Importantly, the value omitted varies with the state of the economy.<br />
+[<a href="https://dl.dropboxusercontent.com/u/7796025/Website/orgcap_PP.pdf">Paper</a>] </p>
+<h2>Work in Progress</h2>
+<h3>1. Novelty in Drug Development (with <a href="http://www.hbs.edu/faculty/Pages/profile.aspx?facId=658167">Danielle Li</a> and <a href="http://jkrieger.scripts.mit.edu/">Joshua Krieger</a>)</h3>
+<p>We construct a new measure of drug novelty. Novel drugs are riskier projects, since they pass FDA approval with lower probability, but are more profitable than other drugs conditional on FDA approval. We show that a plausibly exogenous cashflow shock to firms leads them to develop more novel drugs.</p>
+<h3>2. Drifting Apart: The Pricing of Assets when the Benefits of Growth are not Shared Equally (with <a href="http://faculty.haas.berkeley.edu/garleanu/">Nicolae Gârleanu</a>, <a href="http://www.anderson.ucla.edu/faculty/finance/faculty/panageas">Stavros Panageas</a>, and <a href="https://carlsonschool.umn.edu/faculty/jianfeng-yu">Jianfeng Yu</a>)</h3>
+<p>Market dividends grow about 2% more slowly than aggregate dividends, due to firm entry. The identified wedge between aggregate and market is priced and can explain about one third of equity premium.</p>
+<h3>3. Life-cycle Portfolio Choice with Displacement Risk (with <a href="http://web.mit.edu/lkogan2/www/">Leonid Kogan</a> and  Maarten Meeuwis)</h3>
+<p>We build and estimate a life-cycle portfolio choice model with displacement risk. The main prediction of the model is that young agents should invest in growth stocks, while older agents should buy value. This prediction is consistent with the stylized features of the data as well as popular investment advice.</p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

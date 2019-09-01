@@ -1,0 +1,743 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath,graphics,epsfig,float,comment,microtype}
+\usepackage{amsfonts,amssymb,array}
+\usepackage{tabularx,epstopdf}
+\usepackage{tikz,pgfplots}
+\usepackage{subfiles}
+\usepgfplotslibrary{groupplots}
+
+%\usepackage{html}
+\usepackage{fullpage,lscape,rotating}
+\usepackage{setspace}
+\usepackage{hhline}
+\usepackage{psfrag}
+\usepackage{pst-pdf}
+\usepackage[longnamesfirst]{natbib}
+%\usepackage[harvard,dcucite]{harvard}
+\usepackage{graphicx,booktabs}
+\usepackage{multirow,color,array}
+\usepackage{colortbl}
+%\usepackage{showkeys}
+%\harvardparenthesis{square} \harvardyearparenthesis{round}
+%\input endnote.sty
+ \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\usepackage[colorlinks]{hyperref}
+\hypersetup{urlcolor=blue,linkcolor=blue,citecolor=blue}
+%\usetikzlibrary{external}
+%\tikzexternalize[prefix=figures/]
+%\tikzset{external/force remake}
+
+   \newlength\fheight
+    \newlength\fwidth
+
+\newcommand{\PSbox}[3]{\mbox{\rule{0in}{#3}\special{psfile=#1}\hspace{#2}}}
+\def\E{{\rm E}}
+\def\e{\varepsilon}
+\def\Et{{\E_{\rm t}}}
+\def\F{\mathcal{F}}
+\def\P{{\mathbb{P}}}
+\def\Q{\mathbb{Q}}
+\def\portf{w}
+\def\d{d}
+\def\r{r}
+\def\n{n}
+\def\f{f}
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\newcommand{\wt}{\widetilde}
+\newcommand{\be}{\begin{equation}}
+\newcommand{\ee}{\end{equation}}
+\newcommand{\ct}{\raisebox{-0.1cm}[0.3cm][0.3cm]}
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+\newcommand{\bea}{\begin{eqnarray}}
+\newcommand{\eea}{\end{eqnarray}}
+\newcommand{\cn}{\citet}
+\arrayrulecolor{black}
+\renewcommand{\cite}{\citet}
+\newcommand{\citeasnoun}{\cite}
+\newcommand{\ca}{\citeauthor}
+\newcommand{\z}{\Delta z}
+\newcommand{\s}{\Delta s}
+\newcommand{\bimc}{$\beta^{imc} $ }
+%\renewcommand{\[}{\be}
+%\renewcommand{\]}{\ee}
+\newcolumntype{U}{>{\color{black}\columncolor[gray]{0.9}[.5\tabcolsep]\raggedright}r}
+\newcolumntype{K}{>{\color{black}\columncolor[gray]{0.75}[.5\tabcolsep]\raggedright}r}
+
+\definecolor{Gray}{gray}{0.875}
+%% Redefine the \paragraph command:
+
+%\newcolumntype{U}{\columncolor[gray]{0.8}\raggedright}
+\makeatletter
+\def\Tiny{\fontsize{7pt}{7pt}\selectfont}
+\begingroup \catcode `|=0 \catcode `[= 1
+\catcode`]=2 \catcode `\{=12 \catcode `\}=12 \catcode`\\=12 |gdef|@xignore#1\end{ignore}[|end[ignore]]
+|endgroup
+\def\@ignore{\catcode`\^^M=10 %
+\def\par{\if@tempswa\hbox{}\fi\@tempswatrue\@@par}
+\catcode``=13 \@noligs \let\do\@makeother \dospecials}
+\def\ignore{\@ignore  \@xignore}
+\let\endignore=\relax
+\makeatother
+\newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}}
+
+\newtheorem{theorem}{Theorem}
+\newcommand{\qed}{\ \rule{0.5em}{0.5em}}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}{Lemma}
+\newtheorem{definition}{Definition}
+\newtheorem{assumption}{Assumption}
+\newtheorem{example}{Example}
+\newtheorem{corrolary}{Corrolary}
+\newenvironment{proof}[1][Proof]{\textbf{#1.} }{\ \rule{0.5em}{0.5em}}
+
+ \renewcommand{\figurename}{\footnotesize\bf Figure}
+\renewcommand{\tablename}{\bf Table}
+
+\newcommand{\DP}[1]{{\textcolor{red}{#1}}}
+\newcommand{\JK}[1]{{\textcolor{blue}{#1}}}
+
+\setcounter{secnumdepth}{2} \setcounter{tocdepth}{2}
+\usetikzlibrary{external}
+\tikzexternalize[prefix=tikz/]
+
+
+\begin{document}
+
+
+\setlength{\textwidth}{6.5in} \setlength{\oddsidemargin}{0.0in} \setlength{\textheight}{8.65in}
+\setlength{\topmargin}{-0.1in} \setlength{\headheight}{0.0in} \footnotesep 9pt
+ \setlength{\baselineskip}{1.45\baselineskip}
+\doublespacing
+\title{Innovation Cycles\thanks{Jiro Kondo is with McGill University.  Dimitris Papanikolaou is with Kellogg School of Management and NBER. We thank Hengjie Ai, Larry Christiano, Marty Eichenbaum, Simon Gilchrist, Boyan Jovanovic, Arvind Krishnamurthy, Sergio Rebelo and seminar participants at CEPR Gerzensee, NBER, Northwestern, NYU, Princeton, and UW Madison for helpful comments and discussions. Dimitris Papanikolaou thanks the Zell Center for Risk and the Jerome Kenney Fund for financial support. }}
+\author{Jiro Kondo  \and Dimitris Papanikolaou }
+\date{}
+\maketitle
+\thispagestyle{empty}
+
+\vspace{ -.1in }
+\begin{abstract}
+\noindent We study frictions in the implementation of new technologies in the context of a real business cycle model. Inventors generate ideas but are inefficient at implementing them. When inventors collaborate with firms, their ideas can be implemented more efficiently. However, firms cannot commit to appropriately compensate inventors. The best ideas are those most at risk of theft, since reputational concerns are insufficient to always discipline firms. The fear of expropriation leads inventors to  implement their best ideas inefficiently without firms.  Good news about future technological progress increases the value of future business and thus disciplines firms away from  expropriating better ideas, leading to increases in measured productivity and the returns to new investment. In contrast to existing models, this mechanism leads to an investment boom and increased economic growth in response to good news about future technologies.
+\end{abstract}
+
+\setcounter{page}{0}
+\thispagestyle{empty}
+\newpage
+
+
+
+
+
+\section*{Introduction}
+
+The process through which ideas are transformed into productive output is fraught with frictions. Most independent inventors cannot successfully create an organization to take commercial advantage of their inventions and, therefore, must rely on another party. A salient friction  in this context is that ideas, once they are communicated, can easily be stolen.
+%Given that innovation is an important driver of economic growth, these frictions are likely to have long-term effects. So far, most of the macroeconomic literature has focused on frictions in financing real investment. However, innovation is substantially more difficult to finance than physical capital because ideas are difficult to sell. Adding to the inherent difficulties in financing innovation, even if the quality of ideas could be verified ex-post, once ideas are disclosed they can be stolen. 
+\cite{Arrow1962}, writes: ``There is a fundamental paradox in the determination of demand for information; its value for the purchaser is not known until he has the information, but then he has acquired it without cost.''  In this paper, we build a real business cycle model with frictions in the sale of ideas. We study this friction in the context of innovation. The key insight is that firms' concerns about their reputation offers inventors limited protection against expropriation. We embed this insight into a macroeconomic model and study the interaction between this friction and the arrival of news about future technologies.
+
+In our model, inventors generate ideas but are inefficient at implementing them, perhaps because they are financially constrained or lack the organizational skills to transform their ideas into a viable business. 
+When inventors collaborate with managers (firms), their ideas can be implemented more efficiently. However, firms cannot commit to appropriately compensate inventors. The best ideas are those most at risk of theft, since the mechanism that disciplines firms -- the loss of future interaction with inventors -- depends on the average quality of ideas. This fear of expropriation leads inventors to  implement their best ideas inefficiently without firms. We embed this mechanism in a relatively standard real business cycle model with news about future technologies. Good news about future technological progress increases the value of future business and thus disciplines firms away from  expropriating better ideas. 
+
+Our model features two aggregate shocks: large, but infrequent, improvements in the frontier level of technology -- which determines the productivity of new capital -- and changes in the arrival rate of these improvements. We refer to the latter as news about future technologies. The arrival of a positive news shock generates the following set of responses in the economy. First, good news about the future increases firms' ability to commit not to expropriate inventors by increasing the benefits of cooperation (the value of future projects) relative to the benefits of expropriation (the value of existing projects). As a result, inventors with ideas of higher quality are willing to enter into partnership with firms, increasing both the fraction and the marginal quality of projects implemented at a high level of efficiency.
+
+In sum, good news  enhances efficiency today by  improving cooperation. The more efficient implementation of ideas does not only increase measured productivity, but it also raises the return to new investment and the equilibrium wage. This improvement in efficiency leads to an increase in demand for new capital and thus to an increase in the equilibrium price of investment goods and the real wage. In response, both investment and labor supply increase. This equilibrium behavior contrasts sharply with most existing business cycle models, in which good news typically cause recessions through an income effect -- households feel richer and therefore decide to reduce investment and hours worked. In our model, the enhanced efficiency that follows good news overcomes this income effect. Last, consumption increases in response to food news due to an increase in the utilization rate of existing capital. Good news about the profitability of future projects  lowers the value of older vintages today, leading to an increase in the rate of capacity utilization today.
+
+Our work has implications about the measurement and identification of capital-embodied shocks. Our model mechanism implies that news about future technologies improve real investment opportunities, and therefore affect the marginal rate of transformation between consumption and investment today. Hence, these news have a similar effect on quantities as investment-specific technology shocks \citep{Solow1960,GHH1988,GHK1997,F2006,JPT2010,P2008}. However, the effect of news on the equilibrium relative price of investment goods in our model is either positive or zero, since our effect operates through the demand for new capital, similar to \cite{CMR2013}. Hence, traditional methods of identifying IST shocks based on changes in the relative price of equipment will miss this channel. Our work thus provides a micro-foundation for the marginal efficiency of investment shock in \cite{Justiniano2011}. In sum, our work suggests that capital embodied shocks in real business cycle models   could be interpreted more broadly to include news about   the likelihood of future innovation in addition to contemporaneous technological advances.
+
+
+Our paper is connected to the recent body of work that aims to disentangle whether news about future productivity or capital embodied shocks are the dominant source of business cycle fluctuations \citep{BP2006,BP2009,F2009,BS2011,SGU2012}. Many studies identify these two types of shocks separately by imposing orthogonality and long-run restrictions. Our framework casts doubt on such identification strategies that separate news from capital-embodied or standard TFP shocks. In our model, news about the future increase measured total factor productivity and the marginal efficiency of investment today. Hence, disentangling these two types of disturbances in the data may be quite challenging. 
+
+Our mechanism is related to models with financial constraints. Closest to our paper is the work of \cite{JermannQuadrini2007} and  \cite{ChenSong2012}, who show that in the presence of a standard financial friction  -- a collateral constraint -- news about future productivity can generate an economic expansion today. Our work features important differences. First, a `news' shock in our model represents information about the arrival of new technologies; in contrast,  \cite{ChenSong2012} consider news about future TFP. In a model with financial frictions due to collateral constraints, good news about future technological vintages lower the value of existing capital and therefore are likely to lead to \emph{tighter} constraints today. Second, in our setting, good news about the future lead to an increase in measured TFP today. Specifically, good news about the future improve firms' ability to commit not to expropriate ideas of better quality, hence the marginal idea implemented efficiently is of \emph{higher} quality than before. By contrast, in models of financial constraints, firms will implement their better projects first; hence, good news about the future will lead to a reduction of the quality of the marginal project implemented -- and thus to a reduction in the marginal product of capital. Third, we consider a specification of preferences that  allows for income effects on the supply of labor. Fourth, our model leads to different predictions. 
+
+
+Our model contributes to the literature incorporating news about the future in real business cycle models. \cite{JaimovichRebelo2009} highlight the difficulty of standard real business cycle models in generating positive responses in all of consumption, investment and labor supply; labor supply typically falls in response to good news about the future, while consumption and investment typically show opposite responses. The culprit for the former is the income effect on labor choice; \cite{JaimovichRebelo2009} propose preferences that do not have a strong income effect in the short run to generate an increase in labor supply. Our model is consistent with the behavior of economic quantities both at business cycle as well as at medium run frequencies. Hence, our work is consistent with the findings of \cite{CominGertler2006}, who document the existence of substantial medium-run fluctuations in economic quantities.
+
+
+The last three decades saw the rise in prominence of an alternative form of funding for innovative companies: venture capital. By connecting the share of projects in a partnership with a firm to expectations about the arrival of future technologies, our model provides an economic foundation for the existence of venture capital cycles \citep{GompersLerner2006}.   \cite{Gompers2008} document that the venture capital industry undergoes investment cycles; VCs with the most experience -- a likely proxy for reputation in our model -- increase their investment more during these cycles relative to firms with little experience. Moreover, even though they increase investment, their performance is not worse. Further, \cite{Nanda2011} document that, conditional on these firms going public, startups receiving their initial funding in periods with more VC funding filed more patents -- and those patens receive more citations -- relative to startups funded in less active years. In addition, they document that, conditional on going public, startups funded in more active years were valued higher on the IPO date. These empirical facts are consistent with our model.
+
+Several papers study the role of frictions in entrepreneurship. A large segment of the literature focuses on credit frictions that prevent  poorer  but potentially highly productive entrepreneurs from entering the market \citep[see, for instance][]{BanerjeeNewman1993}. Our work is closest to the work that combines RBC-style models with frictions in the sale of ideas \citep[see, for example][]{Wright2010,CMW2011}. In the models of \cite{Wright2010} and  \cite{CMW2011}, firms need to pay inventors the value of the idea upfront -- that is, they cannot commit to pay them once the idea is implemented. Since ideas cannot be collateralized, this friction creates a demand for liquidity on the part of firms and a role for intermediation. By contrast, in our setting, firms cannot commit to pay inventors anything, either upfront or later, and paying the inventors before the idea is disclosed is not feasible due to adverse selection.
+
+
+
+\section{The agency problem}\label{sec:agency}
+
+At the heart of the model is the notion that ideas can be stolen. Idea theft is possible because intellectual property rights are not always well protected. Patents provide some measure of protection, however expropriation may still be possible. For instance, E. H. Armstrong  pioneered FM radio in the 1910s and '20s.  However, ,any of Armstrong's inventions were claimed by others. The regenerative circuit, which Armstrong patented in 1914 as a ``wireless receiving system,''  was subsequently patented by Lee De Forest in 1916; De Forest then sold the rights to his patent to AT\&T.  Furthermore, once disclosed, the ideas can be implemented without the innovator, who is often not crucial to the success of the venture. For example,  Robert Kearns patented the  intermittent windshield wiper in 1967.  He tried to interest the ``Big Three'' auto makers in licensing the technology. They all rejected his proposal, yet began to install intermittent wipers in their cars, beginning in 1969.  Kearns ultimately won the patent lawsuit against Ford in 1978 and Chrysler in 1982.  The possibility of expropriation affects the choice of whether the new invention is implemented inside an established firm (or venture capitalist) or by the innovator himself.
+
+This process can take several forms. First, the innovator can obtain an idea about a new project while working for an existing firm. He then has the choice of disclosing his idea to his superiors in the hope of obtaining a fraction of the surplus or leave the firm and implement the idea himself. His choice depends on the quality of the project and the firms' ability to commit to provide a fraction of the surplus. According to \cite{Bhide1999}, 71\% of the founders of firms in the Inc 500 list of fast growing technology firms report that they replicated or modified ideas encountered through previous employment. For example, in the late 80s, software maker Peoplesoft and its founder David Duffield were sued by Integral Systems which claimed that its software was based on computer code that was stolen from the company while Mr. Duffield worked there.\footnote{Peoplesoft was eventually acquired by Oracle in a deal valued at over \$10 billion.} More recently, the social networking site ConnectU sued competitor Facebook and its founder Mark Zuckerberg for allegedly copying the company's idea to build a networking website while employed at the company.\footnote{Mr Zuckerberg was also accused of delaying the completion of ConnectU's software while bringing his product to market.}
+
+Second, the inventor can approach a financier with the idea for the new project. Unfortunately, financiers that can assess the quality of the inventor's idea often have the ability to implement the idea themselves. Depending on their ability to commit -- the value of their reputation -- they will expropriate the innovator only if the idea is sufficiently profitable. Intellectual property theft is not rare in the venture capital context. For instance, EP Technologies (EPT), a medical equipment startup, sued Sierra Ventures, accusing it of using EPT's confidential information to help start CardioRhythm which offered an identical product. This information had been disclosed by EPT during funding discussions with Sierra, who had also hired consultants to evaluate EPT's technology and patents.\footnote{CardioRhythm  was founded by Harry Robbins, who was introduced by Sierra as a potential CEO of EPT. Sierra was also accused to have used its contacts in the VC community to limit EPT's ability to compete with Cardiorythm. According to court documents, when EPT asked another venture capital firm for financing, Sierra tried to persuade the firm to invest in CardioRhythm instead. In addition, when EPT discussed a merger with medical manufacturer Medtronic Inc., Sierra intervened and persuaded Medtronic to buy CardioRhythm. Source: Reynolds Holding and William Carlsen, San Francisco Chronicle.} Similarly, in the joint venture context, Microdomain, a microdevice startup, sued Quinta, an already financed startup, for trade-secret theft.\footnote{Quinta allegedly violated a mutual nondisclosure agreement and filed patent applications including the disk-drive technology that Microdomain contended was theirs. One year later, Quinta was acquired by Seagate for \$325 million.}
+Further, outright idea theft is not the only way that financiers can expropriate innovators; financiers can also appropriate significant rents by diluting the innovator's stake in the venture. Often, this happens after the founder has left the company or been terminated. This is often possible due to contractual features of the VC arrangement \citep[see, for instance][]{KaplanStromberg2002}. For instance, as described in \cite{Atanasov2012}, the founder of Pogo.com, an e-gaming company, sued the VCs on the board for issuing complicated derivative securities, effectively reducing his stake from 13\% to 0.1\%, and then refusing to redeem his stock in violation of prior agreement. Similarly, VCs are at times better informed than the innovators and this permits other opportunities to expropriate. For example, the founders of Epinions, a consumer product review website, sued three VC funds for fraudulently withholding information that caused them multimillion dollar losses.\footnote{The founders alleged that the financiers persuaded them to give up their ownership interests after being led to believe that the value of their stake was zero. At the time, the VCs had indicated that the value the company was around \$30 million, well below its \$45 million liquidation preference. The founders alleged that, a year later, the implied value of the company was \$300 million, partly due to a deal with Google and other financial results and projections that were not disclosed by the VCs.}
+
+\section{A simple model}\label{sec:simple}
+
+
+To illustrate the main intuition behind our mechanism, we first present a partial equilibrium version of the model. There exist a set of firms of measure one and a group of inventors of measure $\lambda/\beta$. Both groups are risk-neutral and strategic. Time is continuous. The interest rate is constant and equal to $\rho$.
+
+Inventors have finite lives; they die each period with probability $\beta\,dt$, and are replaced with a new inventor.  Upon entry into the economy, each inventor is endowed with a  new idea (blueprint) for a project.
+%Firms are infinitely lived.
+%Financiers (firms) live forever and have a discount rate $\rho$.
+Each  idea  can be implemented into a project by combining the blueprint with an amount of physical capital $k$. Once implemented, a project produces a constant output flow according to the following technology,
+\begin{equation}
+y = \theta^{1-\alpha} k^\alpha,
+\end{equation}
+where $\theta$ indexes the quality of the investment opportunity; $\theta$ is i.i.d. over time,  has c.d.f. $F(\theta)$  with support $[0,\infty)$. In the beginning of the period, $\theta$ is known only to the inventor. Projects expire with probability $\delta$. Hence, the present value of the cashflows generated by the project is $M\, \theta^{1-\alpha} k^\alpha$, where $M=(\rho+\delta)^{-1}$.
+The innovator faces two options in implementing her idea.
+
+First, she can choose to implement the project in a  partnership with a firm. If the project is implemented in a partnership with the firm, it is implemented at a high level of efficiency; the firm can purchase capital at a unit price. In this case, she needs to disclose the details of the project to the firm, and in the process revealing $\theta$. Equivalently, this choice can be framed as the sale of the idea to a firm. What is important is that the firm cannot commit to pay the innovator after the idea is disclosed. Paying the inventor before the idea is disclosed is not possible due to a standard market for lemons problem: if the firm offers a payment to inventors that is a function of the average quality of ideas, $E[\theta]$, only inventors with below average quality will sell.
+
+The second option available to the inventor is to  implement the project herself, at a lower level of efficiency. We model this efficiency loss by assuming that the inventor buys physical capital at a price $R>1$. The spread $R-1$ captures the degree of efficiency loss and captures the idea that firms are more efficient at implementing projects than firms. We   denote the partnership decision by the inventor by $P: \theta \rightarrow\{0,1\}$. Thus, with a slight abuse of notation, we write the efficiency wedge as a function of $\theta$
+\begin{equation}\label{eqn:rr}
+r(\theta) =
+\left\{
+\begin{array}{ll}
+1 & \textrm{if} \quad P(\theta)=1\\
+R & \textrm{if}  \quad P(\theta)=0.
+\end{array}\right.
+\end{equation}
+
+After the partnership decision has been undertaken, the firm -- or the inventor -- chooses the scale of the project $k$ to maximize its net present value
+%The entrepreneur can always borrow capital at an interest rate $R$. If the entrepreneur borrows today, he then produces the goods and pays back his creditors once profits are realized. For simplicity, we assume that the entrepreneur can borrow any amount at the rate $R$. In this setting, $R$ can be thought of as a reduced-form measure of adverse selection from the perspective of lenders.\\
+\begin{equation}
+\Pi(\theta) \equiv \max_k \left\{M\, \theta^{1-\alpha} k^\alpha- r(\theta) \, k \right\},
+\end{equation}
+yielding
+\begin{eqnarray}
+k^c(\theta) &=& \theta\, \left(\frac{\alpha\, M}{r(\theta)}\right)^{\frac{1}{1-\alpha}}  \\
+\Pi(\theta) &=& \theta\, \alpha^{\frac{\alpha}{1-\alpha}}\,(1-\alpha)  \left(\frac{1}{r(\theta)}\right)^{\frac{\alpha}{1-\alpha}} M^{\frac{1}{1-\alpha}} \label{eqn:profits}.
+\end{eqnarray}
+Here, it is useful to compute the level of profits $\Pi^*$ which assumes there is no efficiency wedge, and the level of profits $\Pi^c$ that the inventor can achieve on her own. These two represent the efficient outcome and the inventor's outside option, respectively.
+\begin{eqnarray}
+\Pi^c(\theta) &\equiv& \theta\, \alpha^{\frac{\alpha}{1-\alpha}}\,(1-\alpha) M^{\frac{1}{1-\alpha}} \,  \left(\frac{1}{R}\right)^{\frac{\alpha}{1-\alpha}} \label{eqn:profits},\\
+\Pi^*(\theta) &\equiv& \theta\, \alpha^{\frac{\alpha}{1-\alpha}}\,(1-\alpha) M^{\frac{1}{1-\alpha}}   \label{eqn:profitsFB}
+\end{eqnarray}
+
+The firm will only enter a joint venture with the inventor if it knows the quality of the inventor's project. Most importantly, once the innovator decides to enter into a partnership with the firm, the latter can implement the project on its own and expropriate the innovator. If the firm expropriates the innovator, the latter obtains a payoff of zero. However, expropriating the innovator implies that future generations of inventors will refuse to do business with the firm. For a given level of project quality, $\theta$, a partnership is feasible between the innovator and the financier if the former obtains a higher payoff under the partnership than her outside option
+\begin{equation}\label{eq:IR}
+\Pi^E(\theta)\geq\Pi^c(\theta),
+\end{equation}
+and the financier prefers the partnership to expropriating the inventor
+\begin{equation}\label{eq:IC}
+\Pi^F(\theta) \geq \Pi^*(\theta) - V
+\end{equation}
+ and losing the relationship value $V$ where
+\begin{equation}\label{eqn:V}
+V_t \equiv  \lambda \, \int_t^\infty \int_0^\infty e^{-\rho(s-t)} \,\Pi^F(\theta) \,  d F(\theta) \, ds.
+\end{equation}
+Each instant $dt$ a measure of $\lambda/\beta \times \beta = \lambda\,dt$ inventors is born and randomly matched to firms. Hence, each firm faces a probability $\lambda\,dt$ of meeting an inventor each period.
+
+
+%In the derivation above, we have made the following assumptions. First, the entrepreneur potentially reveals each of her ideas into a different firm; this minimizes the chance of being expropriated, since each financier can steal at most one idea. Second, once a firm expropriates an entrepreneur, it becomes publicly observable to all market participants, hence that firm loses its entire
+%\subsection{Equilibrium}
+
+We only consider efficient subgame perfect equilibria of the repeated game, namely we  restrict attention to the sharing rules that satisfy $\Pi^E(\theta) + \Pi^F(\theta) = \Pi^*(\theta)$. Still, the model admits many equilibria, each indexed by a sharing rule $\eta(\theta)$. Without loss of generality, we restrict attention to equilibria where the sharing rule is constant $\eta(\theta) = \eta$.\footnote{For every equilibrium with $\eta$ a function of $\theta$, there exists an equivalent one where $\eta(\theta)$ is constant.}
+
+%\begin{definition}[Equilibrium]  an equilibrium is characterized by i) an information revelation strategy $P(\theta)$, ii) an investment strategy $k(\theta)$, iii) payoffs to the financier $\Pi^F(\theta)$ and the entrepreneur $\Pi^E(\theta)$, and iv) a continuation value for the financier~\eqref{eqn:V}, such that in the states where partnership occurs, $P(\theta)=1$, 1) both the investor's participation constraint~\eqref{eq:IR} and the banks incentive compatibility constraint~\eqref{eq:IC} are satisfied; and 2) the sharing rule is satisfies $\Pi^E(\theta) + \Pi^F(\theta) = \Pi^*(\theta)$.
+%\end{definition}
+
+%the investors participation constraint implies that $\Pi^E(\theta)\geq\P^c(\theta)$ if $R(\theta)=1$
+
+%An SPE of the repeated game with payoffs $\{e_t(\ta_t),f_t(\ta_t)\}$ is efficient if and only if there does not exist another SPE of the game with payoffs
+%$\{e'_t(\ta_t),f'_t(\ta_t)\}$ such that: (i) for every $t$ and $\ta_t$,
+%$e'_t(\ta_t) \geq e_t(\ta_t)$, and (ii) for every $t$, $E_t[f'_t(\ta_t)] + V'_t \geq E_t[f_t(\ta_t)] + V_t$ where $V_t$
+%is the value to the financier of continuing a relationship with entrepreneurs beyond $t$:
+
+
+\begin{proposition}\label{prop:char} The equilibrium is characterized by a threshold $\theta^*$, such that partnership occurs, $P(\theta)=1$ if $\theta\leq \theta^*$ and the inventor implements the project alone, $P(\theta)=0$, otherwise. Equilibrium payoffs are given by
+\begin{align}
+\Pi^F(\theta)& = \left\{\begin{array}{ll}
+\Pi^*(\theta)-\Pi^c(\theta) -  \eta\,\left(V-\Pi^c(\theta)\right),& \textrm{if} \quad  \theta\leq \theta^*\\
+0, & \textrm{if} \quad  \theta>\theta^*\\
+\end{array}    \right.,\\
+\Pi^E(\theta)& = \left\{\begin{array}{ll}
+ \Pi^c(\theta) + \eta\, \left(V-\Pi^c(\theta)\right),& \textrm{if} \quad  \theta\leq \theta^*\\
+\Pi^c(\theta), & \textrm{if} \quad  \theta>\theta^*\\
+\end{array}    \right..
+\end{align}
+The threshold $\theta^*$ is the solution to
+\begin{equation}\label{eq:marg}
+\Pi^c(\theta^*) = V,
+\end{equation}
+where $V$ is the relationship value to the bank, which equals
+\begin{align}
+%V& \equiv \frac{\lambda}{\rho} \int_0^{\theta^*} \Pi^F(\theta) d F(\theta) \\
+% &=\frac{\lambda}{\rho} \int_0^{\theta^*} \Big(\Pi^*(\theta)-\Pi^c(\theta)   -  \eta\,\left(V-\Pi^c(\theta)\right)  \Big)\, d F(\theta)\\
+%  &=\frac{\lambda}{\rho} \int_0^{\theta^*} \Big(\Pi^*(\theta)-\Pi^c(\theta)   -  \eta\,\left(V-\Pi^c(\theta)\right)  \Big)\, d F(\theta)\\
+%V + \eta \frac{\lambda}{\rho}  F(\theta^*) V &=\frac{\lambda}{\rho} \int_0^{\theta^*} \Big(\Pi^*(\theta)-(1-\eta) \Pi^c(\theta)      \Big)\, d F(\theta)\\
+ V  &=\frac{\lambda} { \rho +  \eta \, \lambda  \, F(\theta^*) } \int_0^{\theta^*} \Big(\Pi^*(\theta)-(1-\eta)\, \Pi^c(\theta)      \Big)\, d F(\theta)
+\end{align}
+\end{proposition}
+Proposition~\ref{prop:char} summarizes the intuition behind the financial friction in this paper. Financial relationships are limited in their ability to mitigate the hold-up problem between inventors and financiers. These relationships are insufficient exactly when they would be most valuable in the absence of agency conflicts: the best projects $\theta>\theta^*$ are not disclosed and are under-implemented. Since the financier cannot commit to not expropriate an inventor with a sufficiently high quality project, the latter will refuse to enter a partnership agreement with the financier.
+
+The financier's continuation value $V$ determines his ability to commit not to expropriate the inventor, and therefore the return to the marginal project~\eqref{eq:marg}. At this stage, it is informative to compute the average value of a new project,
+\begin{align}\notag
+E[ \Pi(\theta)] & = \int_0^{\theta^*}  \Pi^*(\theta) d F(\theta)  + \int_{\theta^*}^\infty  \Pi^c(\theta) d F(\theta) \\
+& = \alpha^{\frac{\alpha}{1-\alpha}}\,(1-\alpha)\,M^{\frac{1}{1-\alpha}} \, h(\theta^*),
+\end{align}
+where
+\begin{equation}\label{eqn:h}
+h(x)\equiv\int_0^{x} \, \theta \,d F(\theta) +  \left(\frac{1}{R}\right)^{\frac{\alpha}{1-\alpha}} \int_{x}^\infty \, \theta \, d F(\theta).
+\end{equation}
+The fact that projects implemented outside a partnership are inefficient $R>1$ implies that, for all values of $\theta$, $\Pi^*(\theta) > \Pi^c(\theta)$. As result, the profitability of the average project is increasing in the quality of the marginal project being implemented in a partnership $\theta^*$, implying $h'(x)>0$.
+
+The results of this section preview the main mechanism of our general equilibrium model. In the partial equilibrium model in this section, $V$ is constant; more generally, shocks to the ratio of the value of firms' reputation $V$ relative to the benefits of expropriation today $M$ will affect the share of new projects that are implemented at a high level of efficiency, and thus the average return to new projects $h(\theta^*)$. Since partnership is the efficient outcome in terms of production, in general equilibrium these shocks affect the marginal efficiency of investment and thus the demand for new capital.
+
+
+\section{The model} \label{sec:model}
+
+Here, we embed the financial friction is the previous section into a  dynamic general equilibrium model based on \cn{KPS2013}.
+
+\subsection{Firms and technology}
+
+There are three production sectors in the model: a sector producing intermediate consumption goods; a sector that aggregates these intermediate goods into the final consumption good; and a sector producing investment goods. Firms in the last two sectors make zero profits due to competition and constant returns to scale; the existence of the final good and investment sector helps with aggregation.
+\subsubsection{Intermediate goods}
+
+Production in the intermediate sector takes place in the form of projects. Projects are introduced into the economy by new cohorts of inventors, who are restricted in their ability to implement them on their own. An inventor may decide to enter into a partnership with an existing firm. We refer to these firms as financiers.
+
+% and sell the blueprints to the projects to existing intermediate-good firms. There is a continuum of infinitely lived firms; each firm owns a finite number of projects. We index individual firms by $ f \in [0,1]$ and  projects by $j$. We denote the set of projects owned by firm $\f$ by  $\mathcal{J}_f$, and the set of all active projects in the economy by $\mathcal{J}_t$.\footnote{While we do not explicitly model entry and exit of firms, firms occasionally have zero projects, thus temporarily exiting the market, whereas new entrants can be viewed as a firm that begins operating its first project. Investors can purchase shares of firms with zero active projects.}
+
+\vspace{0.5cm}
+\noindent\emph{Active projects}\\
+Projects are differentiated from each other by three characteristics: a) their quality $\theta_j$, which is known to the inventor; b) their scale, $k_j$, chosen irreversibly at their inception; and c) the level of frontier technology at the time $s$ of project creation, $\xi_s$. A project $j$ created at time $s$ produces a flow of output at time $t>s$ equal to
+\begin{equation}\label{eqn:OUTPUT_C}
+y_{jt} =  u_{jt}  \,e^{ \xi_s} \, \theta_j^{1-\alpha} \, k_j^{\alpha}, \qquad \alpha\in(0,1),
+\end{equation}
+where $\xi_s$ is the level of frontier technology at time the project is created, and $u_{jt}$ denotes the level of capital utilization for project $j$. A more active rate of utilization increases the likelihood that the project expires. The probability that the project expires during the period $t$ to $t+\,dt$ is a function of the rate of capital utilization $\delta(u)$, where $\delta'(u)>0$ and $\delta''(u)>0$. Variable capital utilization is not an essential feature of our model, but it helps generate positive comovement between investment and consumption growth.
+
+
+\vspace{0.5cm}
+\noindent\emph{Inventors and new projects}\\
+Project ideas originate with new generations of inventors. Upon entry into the economy each inventor is endowed with $\lambda/\beta$ projects, each of unknown quality $\theta$.  The quality of ideas $\theta$ is distributed on $(0,\infty)$ with cdf $F(\theta)$. Inventors know the quality $\theta$ of their project idea.  The implementation of a  new project idea requires new capital purchased at the equilibrium market price $p^I$.  Once a project is acquired, the owner of the project chooses its scale of production  $k_{j}$ to maximize the value of the project. The choice of project scale is irreversible; existing projects cannot be liquidated to recover their original costs.
+
+Most importantly, inventors cannot implement their ideas as efficiently as firms can. If the firm implements the idea, it needs to purchase $k$ units of capital to implement a project of scale $k$; there is no efficiency loss. In contrast, if the inventor implements the project without a firm, she needs to purchase $R\,k$ units of capital to implement a project of scale $k$, where $R>1$ captures the loss of efficiency. After the project is implemented, the inventor can sell the project in the financial markets without any adverse selection problems. The model nests the frictionless benchmark by setting $R=1$. In this case, firms and innovators are equally adept at implementing projects.
+
+
+
+\subsubsection{Investment- and consumption-good firms}
+
+Firms in the capital-good sector use a constant returns to scale technology employing labor $L_I$ and intermediate goods $Y_I$ to produce the investment goods needed to implement new projects in the intermediate-good sector
+\begin{equation}\label{eqn:Ioutput}
+I_t =  Y_{It}^\beta \, L^{1-\beta}_{I t}.
+\end{equation}
+
+Similarly, final consumption good  firms produce output using labor  $L_C$ and intermediate goods  ${Y}_{Ct}$
+\begin{equation}\label{eqn:Coutput}
+C_t =   {Y}_{Ct}^\phi \, L_{C t}^{1-\phi}.
+\end{equation}
+Both sectors use the output of the intermediate good sector $Y$ as a input; their total demand for intermediate goods must clear the market
+\begin{equation}
+Y_{Ct} + Y_{It} = Y_t.
+\end{equation}
+
+%Production of the final consumption good is affected by the labor augmenting productivity shock $A_t$.
+%where ${Y}_t$ is the total output of the intermediate good, $L_C$ the amount of labor allocated to the final consumption goods sector, and $x_t$ is the labor augmenting productivity shock.% defined in (\ref{eqn:x}).
+
+
+
+\subsubsection{Technology}
+
+The model features two sources of uncertainty: technological revolutions, captured by changes in $\xi$; and news about technological revolutions, captured by changes in the arrival rate $\mu_t$.
+
+
+\noindent\emph{Technological revolution}\\
+The level of frontier technology $\xi$ at the time the project is implemented  evolves according to
+%, which also follows a Geometric Brownian Motion.
+\begin{equation}\label{eqn:xi}
+d \ln \xi_t = \chi\, dN_{t},
+\end{equation}
+where $N_t$ is a poisson jump process with a state dependent arrival rate $\mu_t$. Each time the Poisson process hits, the level of the frontier technology is increased by proportional amount $\chi$ -- a technological revolution. The variable $\mu_t$ captures the likelihood of a technological increase, and therefore represents news about future embodied shocks, and  evolves according to the following stationary stochastic process:
+\begin{equation}
+d \mu_t = \kappa_\mu (\bar \mu - \mu_t ) \, dt + \sigma_\mu \mu_t^p d Z_t^\mu.
+\end{equation}
+The parameters $\kappa_\mu$, $\bar\mu$, $\sigma_\mu$ and $p$ control the degree of mean reversion, the  mean, the volatility, and the skewness of the stationary distribution of $\mu$, respectively.
+
+%\textbf{Possible Extension} Add learning based on a public signal and realizations of $\xi$. The net effect is that $\xi$ and $\mu$ will be positively correlated. This is relatively straightforward to do, and may help with calibration...
+%\noindent\emph{Disembodied shock}\\
+%The labor-augmenting  productivity shock $x$ evolves according to
+%\be\label{eqn:x}
+%d \ln A_t  =  \mu_A  \, dt + \sigma_A \, dB_{At}.
+%\ee
+%The disembodied shock is the standard TFP shock in the neoclassical model. Here, we include it for comparison.
+
+\subsection{Households}
+
+
+Households are infinitely lived, and have  non-separable preferences over sequences of consumption $C$ and leisure $N$. Utility $J$ is defined recursively as
+\begin{equation}\label{eqn:PREFERENCES}
+J_t=E_t \int_t^\infty \tilde f(C_s, N_s, J_s) ds,
+\end{equation}
+where the aggregator $f(C,J)$ takes the form
+\begin{equation}
+\tilde f(C,N,J)\equiv \frac{\rho}{1-\theta^{-1}}\left(\frac{ \left(C N^\psi\right) ^{1-\theta^{-1}}}{ ((1-\gamma) J)^{\frac{\gamma-\theta^{-1}}{1-\gamma} }}-(1-\gamma)\,J\right)
+\end{equation}
+Here, $\psi$ is the preference weight on leisure, $\rho$ is the subjective discount rate, $\gamma$ is the coefficient of relative risk aversion, and $\theta$ is the elasticity of intertemporal substitution (EIS).\footnote{In the special case where $\gamma=\theta=1$  our preferences reduce to the standard log case
+\begin{equation}\label{eqn:PREFERENCESlog}
+J_t=E_t \int_t^\infty e^{-(\rho+\beta)(s-t)} \, U(C_s, N_s)ds.
+\end{equation}
+where
+\begin{equation}
+U(C,N) \equiv \log C + \psi \log N
+\end{equation}
+}
+
+To focus on our main economic mechanism,  we assume the existence of perfect risk-sharing across inventors. That is, even though inventors have finite lives, we assume that they belong to a large family that perfectly shares risk across generations. We consider the case of imperfect intergenerational risk sharing as an extension in the online appendix. Allowing for imperfect risk sharing across generations does not alter the qualitative predictions of our model; instead, it reinforces its quantitative predictions.
+
+Last, households are endowed with a fixed unit of time, that can be freely allocated between leisure, producing consumption goods or producing capital
+\begin{equation}\label{eqn:labor_market}
+L_{It} + L_{Ct} + N_t= 1.
+\end{equation}
+The allocation of labor between the investment-good and consumption-good sectors is the mechanism through which the economy as a whole saves or consumes.
+
+\section{Competitive equilibrium}
+
+We begin our description of the competitive equilibrium by characterizing households' optimality conditions.
+
+
+\subsection{Dynamic evolution of the economy}
+
+
+
+%To obtain the competitive equilibrium of the model, we solve the fixed-point problem as follows. First, we solve the firms' optimization problem taking prices as given. Second, we solve the innovators' and workers' optimization problem. Given the households' consumption process we obtain the investor's marginal rate of substitution, or stochastic discount factor. Then we solve for equilibrium asset prices, which feed back into the investor's consumption problem through the cohort displacement effect. Last, we solve for the value of individual firms. To conserve space, we relegate the details of the solution to the appendix.
+
+The current state of the economy is characterized by the vector $Z_t=[K_t,\omega_t, \mu_t]$, where
+\begin{align}
+\omega& \equiv  \xi - (1-\alpha\beta) \ln K.\label{eqn:omega}
+\end{align}
+%where $x$ is the disembodied shock~(\ref{eqn:x}) and $K$ is the effective capital stock. The second state variable $\omega$ is
+%the real investment opportunities in the economy, which depend on the deviation of the effective capital stock $K$ from an optimal level determined by the two aggregate shocks $x$ and $\xi$
+The dynamic evolution of the aggregate state $Z$ depends on the law of motion for $\xi$, given by equations~(\ref{eqn:xi}) and the evolution of the effective stock of capital,
+\begin{align}\notag
+d K_t  =\Big(i(\omega_t,\mu_t)    - \delta(\omega_t, \mu_t)  \Big) \,K_t \,dt,& \\\notag  \textrm{where}\quad\,i(\omega_t,\mu_t) & \equiv  \lambda\,  e^{\xi_t}\, \int_0^\infty  \theta^{1-\alpha} \,k_t(\theta)^\alpha \, d F(\theta) \\\notag
+%& =   \xi_t\, \left(\frac{\alpha \,\xi_t\,\,M_t}{p^I_t}\right)^{\frac{\alpha}{1-\alpha}} \left(\int_0^{\theta^*(\omega_t,\mu_t)} \, \theta \,d F(\theta) +  \left(\frac{1}{R}\right)^{\frac{\alpha}{1-\alpha}} \int_{\theta^*(\omega_t,\mu_t)}^\infty \, \theta \, d F(\theta)\right)\\
+&=  \lambda\, e^\omega \left(\frac{  u^\beta(\omega_t,\mu_t)  \, y^{\beta}_{I}(\omega_t,\mu_t) \, L^{1-\beta}_{I}(\omega_t,\mu_t)}{ \lambda\, g\Big(\theta^*(\omega_t,\mu_t)\Big)}\right)^\alpha \, h\Big(\theta^*(\omega_t,\mu_t)\Big) ,\label{eqn:Kevol}\\
+\delta(\omega_t,\mu_t) &\equiv \hat\delta(u^*(\omega_t,\mu_t) ).
+\end{align}
+
+
+The variable $\omega$ captures transitory fluctuations along the stochastic trend. Since $i'(\omega)>0$, an increase in $\omega$ accelerates the growth rate of the effective capital stock, and thus the long-run growth captured by $\chi$.
+Last, the variable $\mu$ captures the likelihood of a technological revolution. The following variables are stationary and depend only on $\omega$ and $\mu$: hours worked $1-N$, the threshold $\theta_t^*$ and consequently the supply of new ideas $h(\theta^*)$; and the allocation of labor and the share of intermediate goods used in the consumption and investment sector.
+
+
+The function $h$ defined in \eqref{eqn:h} captures the dependence of aggregate output on the measure of new projects that are implemented in a partnership, versus by the inventor alone. Examining~\eqref{eqn:h}, we see that as the innovators become equally adept as firms in implementing new projects, $R\rightarrow1$, $h(x)$ becomes a constant function equal to $E[\theta]$. In this case, relationships have no value and the model reduces to the frictionless benchmark.
+
+%where in the last equality I used the market-clearing price of capital~\eqref{eqn:q} and the definition of $\omega$ in~\eqref{eqn:omega}.
+
+At the aggregate level, our model has important similarities to the neoclassical growth model. The first state variable $\chi$ is difference-stationary and captures the stochastic trend in the economy. Long-run growth $\chi$ depends on the disembodied shock $A$ and the effective capital stock $K$. The effective capital stock $K$ depreciates at the rate $\delta$ of project expiration. The effective capital $K$ grows as the economy allocates more resources into producing capital $L_I$ relative to the total scale of new projects $g(\theta^*)$; when the quality of new capital improves $\xi$ or labor becomes more productive $A$; and when the quality of the marginal project that is financed efficiently $h(\theta^*)$ improves.
+
+The quality of the marginal project $\theta^*$ being financed in a partnership depends on the commitment ability of firms, which itself is a function of the present value of rents from future projects, $V$. Consequently, a shock that leads to an increase in $V$ -- for instance positive news about \emph{future} technology due to an increase in $\mu_t$ -- will also affect the quality of the marginal project in a partnership $\theta^*$ and therefore the marginal return of investment $h(\theta^*)$ \emph{today}.
+
+
+
+
+
+\subsection{Household optimization}
+
+\subsubsection{Labor supply}
+
+The labor-leisure decision is intra-temporal. The first-order condition with respect to leisure is $U'(N_t)/{U'(C_t)}  = w_t$, implying
+\begin{align}
+N_t & =\psi\left( \frac{C_t}{w_t}\right)\label{eqn:lsupply}
+\end{align}
+As equation~ \eqref{eqn:lsupply}  shows, the income elasticity of labor supply $d \log (1-N) / d \log C$ is equal to the opposite of the Frisch elasticity of labor supply $d\log(1-N)/d\log w$, as  in \cn{KPR1988}. Using the labor market clearing condition~\eqref{eqn:labor_market},
+\begin{equation}
+N = (1-L_I)\left(\frac{\psi  }{\psi +  1-\phi  }\right)\label{eqn:lsupply2}
+\end{equation}
+we can see that   labor supply is increasing in $L_I$.
+
+\subsubsection{Consumption and savings}
+
+Households have access to a complete menu of state contingent securities. Let $\pi_t$ be the state-price density (the state price of consumption in units of probability). The household first-order condition is
+\begin{equation}
+\frac{\pi_s}{\pi_t} =\exp\left(\int_t^s \tilde f_J(C_u,N_u, J_u)\,du \right)\, \frac{ \tilde f_C(C_s, N_s, J_s)}{ \tilde f_C(C_t, N_t, J_t)}
+\end{equation}
+For a derivation, see Skiadas...
+
+\subsubsection{Welfare}
+
+The households' utility index $J$ satisfies the Hamilton-Jacobi-Bellman equation $\tilde f(C, N,J)   + \mathcal{D}  J = 0 $. We guess, and subsequently verify, that the household's utility index $J$ is given by
+\begin{equation}
+J_t = \frac{1}{1-\gamma} \,K_t^{\phi\,(1-\gamma)} j(\omega_t, \mu_t)
+\end{equation}
+where the function $j(\omega_t, \mu_t)$ satisfies the PDE in the Appendix.
+
+\subsection{Firm optimization}
+
+
+Next, we study the optimality conditions on the production side of the economy. We conjecture -- and subsequently verify -- that the partnership decision takes the same form as the partial equilibrium model in section~\ref{sec:simple}. Specifically, the inventor and the firm enter into a partnership for projects of quality below a threshold $\theta^*_t$. Importantly, the threshold $\theta^*$   depends on the state of the economy. With a slight abuse of notation, we index all state-dependent variables and optimal policies with a time subscript.
+
+\subsubsection{Market for capital}
+%Intermediate good firms  choose the scale of investment, $k_j$, in each project to maximize its net present value.
+The owner of a project in the intermediate-goods sector  chooses the scale  of investment, $k_j$, in each project to maximize its net present value, which equals the market value of a new project, minus its implementation cost. The implementation cost depends on whether the project is implemented by the firm or by the inventor, and is proportional to the cost of purchasing $k$ units of capital at the equilibrium price $p^I$.  For now, we guess that the market value of a new project of vintage $\xi_t$ and quality $\theta$ is equal to $M_t \,e^{\xi_t}\, \theta_j^{1-\alpha}\, k_j^\alpha $, where
+\begin{align}\label{eqn:M}
+M_t  =& \max_{u_s} E_t \int_t^\infty \exp\left({-\int_t^s  \delta(u_u) \,du }\right)\, \frac{\pi_s}{\pi_t}  \, p^Y_{s}   \, u_s\,  ds.
+\end{align}
+We verify our conjecture and derive $M_t$ explicitly below. Given $M_t$ and a partnership strategy, the net present value of a project of quality $\theta$ is
+\begin{equation}\label{eqn:npv}
+\max_k NPV =M_t\,{\xi_t}\, \theta^{1-\alpha} k^\alpha - r_t(\theta) \, p^I_t\, k
+\end{equation}
+
+%where $q_t$ is the market price of capital.
+The optimal scale of investment is a function of the ratio of the market value of a new project to its marginal cost of implementation,
+\begin{equation}\label{eqn:k}
+k_t(\theta)=
+\theta\,\left(\frac{\alpha \,e^{\xi_t}\,\,M_t}{p^I_t}\right)^{\frac{1}{1-\alpha}} \,r_t(\theta)^{-\frac{1}{1-\alpha}},
+\end{equation}
+Equation~(\ref{eqn:k}) bears similarities to the q-theory of investment \citep{Hayashi1982a}. A key difference here is that the numerator involves the market value of a new project $M$ -- akin to marginal q -- which is distinct from the market value of the firm -- average q. Importantly, the optimal scale of projects that are implemented by the inventor alone $P=0$ is lower due to the loss of efficiency $R>1$.
+
+
+%Given our assumption that all projects are ex-ante identical, the scale of new investment~(\ref{eqn:k}) is a function only of the aggregate state of the economy. %Allowing for ex-ante heterogeneity in project profitability is straightforward, and leads to qualitatively similar results.
+%which in our formulation depends only on aggregate variables.\footnote{Allowing for ex-ante cross-sectional differences in project profitability is straightforward.}
+Aggregating across new projects, the total demand for new capital equals
+\begin{align}
+I_t&=\lambda \int_0^{\infty} k_t (\theta) \,d F(\theta)=  \lambda  \left(\frac{ \alpha\, \xi_t\, M_t}{p^I_t}\right)^{\frac{1}{1-\alpha}}  g(\theta_t^*) \label{eqn:Imktclr2}
+\end{align}
+where the function $g$ captures the dependence of the demand for capital on the measure of projects that are implemented in a partnership, versus by the inventor alone
+\begin{equation}
+g(\theta^*) \equiv \int_0^\infty \theta \, r_t(\theta)^{-\frac{1}{1-\alpha}}   d F(\theta)  =      \int_0^{\theta^*_t} \theta \, d F(\theta) +  \left(\frac{1}{R}\right)^{1/(1-\alpha)}\int_{\theta^*_t}^\infty \theta\,  d F(\theta) .
+\end{equation}
+
+The equilibrium price of investment goods, $p^I_t$,  clears the supply~(\ref{eqn:Ioutput}) and the total demand for new capital~(\ref{eqn:Imktclr2})
+%Aggregation is simplified by the fact that the optimal scale of all projects created at time $t$ is the same. In particular, the resources allocated per project equal the total amount of investment divided by the number of new projects received. Combining equations (\ref{eqn:k})  and (\ref{eqn:Imktclr2}) yields the equilibrium price of the investment good in terms of the consumption good:
+\begin{equation}\label{eqn:q}
+p^I_t =  \alpha \,e^{\xi_t}  \, M_t \,  \left(\frac{I_t}{ \lambda \,g(\theta_t^*)}\right)^{\alpha-1}.
+\end{equation}
+
+An increase in the level of frontier technology $\xi$, or to the quality of the marginal project $\theta_t^*$  leads to an increase in the demand for capital, and thus to an increase in its equilibrium price $p^I$. %However, $q$ is not adjusted for quality. The quality-adjusted price of capital is equal to $q\, e^{-\xi}$.
+
+Examining equations~\eqref{eqn:Imktclr2} and \eqref{eqn:q}, we see that the threshold $\theta_t$ affects the quantity and price of investment in a qualitatively similar manner as the embodied shock $\xi$. An improvement in the quality of the marginal project that is implemented in a partnership improves the real investment opportunities in the economy in the same way as if the productivity of new capital was higher.
+
+
+\subsubsection{Market for ideas}
+
+Relative to a standard real business cycle model, the main novel new ingredient is the market for ideas. Here, we verify that the results from the partial equilibrium model in section~\ref{sec:simple} continue to hold, specifically that  partnership occurs for projects only below a certain threshold $P_t(\theta)=1 \Leftrightarrow \theta\leq\theta^*_t$. The difference here is that the threshold $\theta_t^*$ is state-dependent.
+
+First, we compute the outside option of the inventor $\Pi_t^c(\theta)$ and the first-best level of profits $\Pi^*_t(\theta)$, which is also equal to the maximum amount that the bank can expropriate from the inventor. Using equations~\eqref{eqn:npv}-\eqref{eqn:k}, we obtain
+
+\begin{align}\notag
+\Pi^*_t (\theta)  &= \theta\,(1-\alpha)\, M_t \,e^{\xi_t}\,  \,\left(\frac{ I_t }{\lambda\, g(\theta_t^*)}\right)^\alpha, \\\label{eqn:P}
+\Pi^c_t (\theta)  &= \theta\,(1-\alpha)\, M_t \,e^{\xi_t}\,  \,\left(\frac{ I_t }{ \lambda\, g(\theta_t^*)}\right)^\alpha \,\left(\frac{1}{R}\right)^{\alpha/(1-\alpha)} .
+\end{align}
+%or
+%\begin{align}\notag
+%\Pi^*_t (\theta)  &= \theta\,(1-\alpha)\, \left(M_t \,e^{\xi_t}\right)^{\frac{1}{1-\alpha}}\,  \,\left(\frac{ \alpha}{p^I_t}\right)^{\frac{\alpha}{1-\alpha}}, \\\label{eqn:P}
+%\Pi^c_t (\theta)  &= \theta\,(1-\alpha)\, \left(M_t \,e^{\xi_t}\right)^{\frac{1}{1-\alpha}}\,  \,\left(\frac{ \alpha}{p^I_t}\right)^{\frac{\alpha}{1-\alpha}} \,\left(\frac{1}{R}\right)^{\alpha/(1-\alpha)} .
+%\end{align}
+
+The outside option of the inventor $\Pi^c$ is equal to the value of a project implemented at a low level of efficiency. The firm has the ability to expropriate the inventor, and extract the full value of the project, $\Pi^*$. If the firm expropriates the innovator, then the firm foregoes the value of its relationship with future innovators,
+\begin{align}\label{eqn:V}
+V_t \equiv & \lambda \,E_t \int_t^\infty \frac{\pi_s}{\pi_t} \Bigg(  \int_0^{\theta^*} \Pi_t^F(\theta) \, d F(\theta) \Bigg) \,ds.
+%=&E_t \int_t^\infty \frac{\pi_s}{\pi_t}  \left(\hat g(z^*_s) \, M_t\,\xi_s\,  \,\left(\frac{ L_I(\Omega_s)}{ g(z_s^*)}\right)^\alpha - \eta F(z^*_s) V_s   \right) \, ds \\
+\end{align}
+
+The equilibrium payoffs to the inventor $\Pi^E$ and the firm $\Pi^F$ are given by proposition~\ref{prop:char}, except for the fact that they depend on the state of the economy in addition to $\theta$.
+%The net present value of the project if $P=0$ represents the outside option of the inventor,  $\Pi^c$. Similarly, the value of a project implemented at full efficiency $P=1$ is the maximum amount the financier can expropriate, $\Pi^*$.
+Following the same logic as equation~\eqref{eq:marg}, the quality $\theta^*_t$ of the marginal project that gets implemented in a partnership  satisfies $\Pi_t^c(\theta^*_t)=V_t$, implying
+\begin{equation}\label{eq:marg2}
+\theta^*_t\,(1-\alpha)\, M_t \,e^{\xi_t}\,  \,\left(\frac{I_t}{ \lambda \, g(\theta_t^*)}\right)^\alpha \,\left(\frac{1}{R}\right)^{\alpha/(1-\alpha)} = V_t.
+\end{equation}
+
+
+\subsubsection{Market  for intermediate goods and labor}
+
+The total output of the intermediate good, ${Y}_t$, equals the sum of the output of the individual projects, $Y_t = \int  y_{\f,t}$, and is equal to the rate of capital utilization $u$ -- which we guess and subsequently verify that it is identical across firms -- times the  effective  capital stock
+\begin{align}
+Y_t = u_t\, K_t&\equiv  u_t\, \int_{j\in\mathcal{J}_t} {\xi_j}\, \theta_j^{1-\alpha}\,k_j^\alpha\,dj\label{eqn:K}.
+\end{align}
+adjusted for the productivity of each vintage -- captured by $\xi$ at the time the project is created -- and for decreasing returns to scale. An increase in the effective capital stock $K$, for instance due to a positive embodied shock, leads to a lower price of the intermediate good and to displacement for productive units of older vintages.
+
+Consumption firms  purchase the intermediate good $Y$ at a price $p_Y$ and hire labor $L_C$ at a wage $w$ to maximize their value. Their first order condition with respect to their demand for intermediate goods yields% an expression for the equilibrium price $p_Y$ of the intermediate good in terms of the consumption good
+\begin{align} \label{FFOC:YC}
+\phi\,  \,  {Y}_{Ct}^{\phi-1} \, L_{C t}^{1-\phi} &=  p^Y_{t} \\\label{FFOC:LC}
+(1-\phi)\, {Y}_{Ct}^{\phi } \, L_{C t}^{ -\phi}& = w_t.
+\end{align}
+Similarly, the demand of intermediate goods and labor by investment firms implies
+\begin{align} \label{FFOC:YI}
+ \beta \, p^I_t  \,     Y_{It}^{\beta-1} L_{It}^{1-\beta} &=  p^Y_{ t}\\\label{FFOC:LI}
+   ({1-\beta})\, p^I_t  \,    Y_{It}^\beta L_{It}^{-\beta} &=  w_t
+\end{align}
+
+To obtain intuition about the equilibrium allocation of resources between the investment and consumption sector, consider the case where the factor shares are equal, $\beta=\phi$. In this case, equating the marginal products in the   consumption~\eqref{FFOC:YC}-\eqref{FFOC:LC}  and investment sector~\eqref{FFOC:YI}-\eqref{FFOC:LI} imply that in equilibrium, the relative price of investment goods is equal to one, $p^I_t =1$ always. In this special case, clearing the capital market~\eqref{eqn:q} implies
+\begin{equation}\label{eqn:qS}
+I_t = \lambda \, \left(  \alpha \, e^{\xi_t}  \, M_t \right)^{\frac{1}{1-\alpha}} \,    { g(\theta_t^*)} .
+\end{equation}
+Ceteris paribus, the total amount of resources allocated to investment is increasing in the level of frontier technology $\xi$, the equilibrium price of installed capital $M_t$ and the quality of the marginal project in partnership $\theta^*_t$. Intuitively, shocks that tend to increase the price of capital -- such as an increase in $\xi_t$ or $\theta_t^*$ -- prompt a reallocation of resources from consumption to investment. The same intuition holds in the more general case $\beta\neq \phi$, see the Appendix for more details.
+
+
+The limited commitment friction plays a key role in the paper. In the absence of the limited commitment friction, $g(\theta^*)$ is a constant. In this case, the equilibrium level of investment $I$ is increasing in the frontier level of technology $\xi$, as in standard models. Further, an increase in the likelihood of technological innovation $\mu_t$ lowers the value of the currently available projects $M $; and as a result leads to a reallocation of resources away from investment towards consumption, as well as a reduction in the labor supply. This is the standard effect that leads to a recession following good news about future productivity in a standard RBC model.  In contrast, in our model $\theta_t^*$ is an endogenous function of the state of the economy, including $\mu_t$. Good news about future technologies increase the reputation value of firms $V$ and therefore their ability to commit not to expropriate better projects, leading to an increase in $\theta_t^*$.
+
+%The  price of the intermediate good $p_Y$ is decreasing in the total output of the intermediate good
+%Market clearing implies that
+
+
+
+%Equation~\eqref{eqn:EQ:L} illustrates the central mechanism of the model. All else equal, an increase in the quality of the marginal project $g(\theta_t^*)$  increases the demand for new investment goods, leading to an increase in the resources towards producing investment $L_I$.
+
+%This mechanism is new and operates in addition to the standard mechanisms. In the absence of the limited commitment friction, $g(\theta^*)$ is a constant independent of $\theta^*$. In this case, the equilibrium level of investment $L_I$ is increasing in the level of technology $\xi$. Further, an increase in the likelihood of technological innovation $\mu_t$ lowers the value of the currently available projects relative to the value of consumption $M/C$; and as a result leads to a reallocation of resources away from investment towards consumption, as well as a reduction in the labor supply.
+
+
+
+\subsubsection{Project valuation and investment decisions}
+
+The last step in characterizing the equilibrium involves computing the market value of new projects and the relationship value  of firms. Given~\eqref{eqn:M}, the discounted value of new projects  $\tilde M(\Omega_t)=\pi_t {M_t}$   satisfies the Hamilton-Jacobi-Bellman equation
+\begin{align}\label{hjb:M}
+0=&\max_ u \left\{  \tilde f_C(C , N , J )  \, p^Y  \,u   +  \Big( f_J(C,N, J) - \delta(u)    \Big)\, \tilde M     +  \mathcal{D}   \tilde  M  \right\}.
+\end{align}
+The solution to~\eqref{hjb:M} is given by $\tilde M_t    = K^{\phi-1}_t \,m(\omega_t, \mu_t)$,  where the function $m(\omega_t, \mu_t)$ satisfies the PDE in the appendix. After substituting, the value of existing projects  is
+\begin{align}\notag
+M_t    =& K^{\phi-1}_t \,m(\omega_t, \mu_t) \Bigg(  \left( {  \bar u_t^\phi\, y_{Ct}^\phi L_{Ct}^{1-\phi}  } \right)^{   -\theta^{-1} }   j(\omega_t, \mu_t) ^{\frac{\gamma-\theta^{-1}}{\gamma-1} } N_t^{\psi(1-\theta^{-1})} \Bigg)^{-1}.
+\end{align}
+Firms choose the level of capital utilization $u$ taking the decisions of other firms $u^*$ as given. The equilibrium level of capital utilization $u^*$ satisfies the first-order condition,
+\begin{equation}
+ p^Y_t = \delta'(u^*_t) \, M_t.
+\end{equation}
+
+The last step involves computing the equilibrium value of a relationship to the firm-financiers, which as we see in ~\eqref{eqn:V}, is equal to the present value of the rents $\Pi_t^F(\theta)$ they receive from the projects they enter into a partnership with $\theta\leq\theta^*$. Using the version of the Feynman-Kac theorem with discounting, the discounted relationship value $\tilde V(\Omega_t) = \pi_t V_t $ solves the differential equation
+\begin{align}\label{eqn:V}
+0=& \left\{ \lambda \hat g(\theta^*) \, \tilde M \,e^{\xi}\,  \,\left(\frac{ I }{\lambda  g(\theta^*)}\right)^\alpha     +  \Big(\tilde f_J (C, N, J) -   \lambda\, \eta\, F (\theta^* )\Big) \, \tilde V      + \mathcal{D} \, \tilde V  \right\}
+\end{align}
+where
+\begin{equation}\label{eqn:ghat}
+\hat g (\theta^*) \equiv \left(1-(1-\eta)\,R^{-\alpha/(1-\alpha)} \right) \, (1-\alpha)\,\, \int_0^{\theta^*} \theta \, dF(\theta).
+\end{equation}
+Equation~\eqref{eqn:V} shows that the firms' relationship value $V$ is, among other things,  a function of the surplus rule $\eta$. We solve~\eqref{eqn:V} by conjecturing that the discounted relationship value takes the form $\tilde V_t= K^{\phi}_t \,v(\omega_t, \mu_t)$,  where the function $v(\omega, \mu)$ solves the PDE in the appendix. After substitution, the relationship value takes the form
+\begin{equation}
+V_t= K^{\phi}_t \,v(\omega_t, \mu_t) \Big[  \left( {  \bar u_t^\phi\, y_{Ct}^\phi L_{Ct}^{1-\phi}  } \right)^{   -\theta^{-1} }   j(\omega_t, \mu_t) ^{\frac{\gamma-\theta^{-1}}{\gamma-1} } N_t^{\psi(1-\theta^{-1})} \Big]^{-1}.
+\end{equation}
+
+
+
+
+\section{Model predictions}
+
+To provide insight into the model mechanism, we explore the response of model quantities to the two fundamental disturbances in the economy: news about technological revolutions, $\mu$, and the arrival of a technological revolution, $\xi$. We compare the response of aggregate quantities to a version of the model without frictions ($R=1$).
+
+
+\subsection{Calibration}
+
+Whenever possible, we calibrate the model using standard parameter values or by targeting standard moments. We parameterize the project depreciation rate as a function of capital utilization rate as $\delta(u) = \delta_0 + {\delta_1}/{2}\, u^2$; we choose the parameters $\delta_0$ and $\delta_1$ to generate an average depreciation rate of 2\% per quarter, and to match the  quarterly volatility of log changes of capital utilization \citep[equal to 0.75\%  using the data from][]{Basu2006}. We calibrate the share of capital in consumption $\phi=0.45$ and investment $\beta=0.26$ using the point estimates of \cite{CV2002}. We select the share of leisure in the utility function $\psi=2$ to generate a share of leisure approximately equal to 75\%. The parameter $\alpha$ governing the degree of decreasing returns to scale corresponds approximately to the parameter governing adjustment costs; we thus set $\alpha=0.4$, which is close to the quadratic adjustment cost case. We calibrate the arrival rate of new projects $\lambda=0.25$ to match the growth rate of the economy (0.45\% per quarter). We parameterize the distribution of project quality $\theta$ to be exponential with unit scale parameter, $F(\theta)  = 1 - \exp(-\theta)$, so that mean project quality is equal to one, $E(\theta)=1$.
+
+
+The remaining parameters are unique to our model and thus are difficult to calibrate using standard moments.  We calibrate the parameters governing the technology process $[\xi_t, \mu_t]$ to  generate realistic business cycle fluctuations. We calibrate the  size of technological revolution to $\chi=0.25$ to match the mean growth rate in the quality-adjusted price of equipment (-0.52\% per quarter).  We calibrate the rate of arrival of a technological revolution in the long-run state to be $\bar\mu=0.025$, so that revolutions are relatively infrequent, occurring on average once every 10 years. We choose the parameters governing the volatility $\sigma_\mu=0.1$, persistence $\kappa=0.05$ and skewness $p=0.25$ of the arrival process $\mu$. These parameters lead to a quarterly volatility of output growth of 0.9\%, which is in line with the data.  We set the parameter governing the degree of efficiency loss when the project is implemented by the inventor to $R=3$. Taken literally, this parametrization implies that the inventor pays three times as much for capital inputs than firms. However, this parameter captures not just the increased financing costs but also the reduction in overall efficiency of projects implemented by innovators alone. Last, we se the bargaining share between firms and workers  to $\eta=0.8$. Last, we calibrate a low value for the  risk aversion coefficient, $\gamma=2$. Risk aversion has a small impact on our results. More importantly, we calibrate the intertemporal elasticity of substitution to be on the high end of typical calibrations $\theta=2$ to generate a smooth interest rate.
+
+
+
+
+
+
+%\subsection{Model Mechanism}
+
+
+
+\subsection{Response to news about future technological innovation}
+
+Here, we describe the response of model quantities to news about future innovations -- a shock to $\mu$  -- and improvements in the frontier technology -- a shock to $\xi$.
+%\subsubsection{Model with limited commitment}
+The response of the economy to news about future technological innovation   sharply differentiates our model from the frictionless benchmark. We show these responses in figures~\ref{fig:Rnews1} and \ref{fig:Rnews2}.
+
+As we see in Panel A of figure~\ref{fig:Rnews1}, good news about the future leads to a \emph{reduction} in the market value of new projects $M  e^{\omega}$, since the technology has not yet improved. Good news about future innovation reduces the incentives to invest capital today; this mechanism leads to a collapse in investment following positive news about the future in the standard model. However, as we see in Panel $B$, a positive shock to $\mu$ leads to an increase in the value of \emph{future} projects relative to the value of new projects, $V/M e^{-\omega}$.  This increase leads to increased ability of firms to commit to fund better projects -- equation~\eqref{eq:marg2} -- and therefore to an increase in the fraction of projects $F(\theta^*)$ that are implemented in a partnership, as we see in Panel $C$. A higher fraction of projects in partnership implies a reduction in the efficiency loss and thus to an increase in the average productivity of new projects $h(\theta^*_t)$, since more and better projects now operate at the optimal scale, as we see in panel $D$. As firms can commit to fund better projects -- and these projects operate at a higher scale -- this increase in the threshold $\theta_t^*$ tends to  increase the demand for new capital.  This is the novel mechanism in this paper.  The overall demand for new capital is determined by the relative strength of the two channels in Panels s $A$ and $E$. Last, in panel $F$ we show that the equilibrium price of capital shows a weakly positive response to positive news about the future.
+
+In Panel A of figure~\ref{fig:Rnews2}, we see that a positive shock to $\mu$ leads to an increase in investment, consumption, labor supply and capital utilization. Investment increases because the increase in the demand for capital due to the increase fraction of projects in partnership  $F(\theta_t^*)$ is strong enough to overcome the reduction in the market value of existing capital (Panel $D$). The same mechanism leads to an increase in the price of investment goods and thus to an increase in the equilibrium wage; as a result, labor supply increases in response. Last, the reduction in the market value of existing projects (Panel $D$ in previous figure) implies an increase in the rate of capital utilization: firms are willing to utilize old capital more and risk its destruction as its value drops. This increase in the supply of intermediate goods implies that, even though the fraction of labor and intermediate goods allocated to consumption drops, aggregate consumption increases on impact.
+
+
+%In our model, good news about the likelihood of technological revolution leads to an increase in the marginal product of capital through the availability of better projects -- the threshold $\theta_t^*$ increases. This improvement in the productivity of new capital has the same effect as if the embodied shock had occurred \emph{today}. In response to good news about future technologies, the economy increases investment and hours worked today, leading to positive comovement between output, hours and investment. Consumption shows a small decrease on impact but it accelerates going forward due to increased capital accumulation.
+
+
+%\subsubsection{Model without limited commitment}
+
+Next, we compute the responses in a version of out model without frictions. By assuming that inventors and firms are equally adept at implementing projects,  $R=1$, we are effectively assuming away the existence of the limited commitment friction.  We show the results in Panel B of figure~\ref{fig:Rnews2}. Similar to existing models in the literature, absent the limited commitment friction,  good news about future technological growth  leads to a recession today. An increase in the likelihood of technological innovation lowers the value of existing projects $M_t$. Absent the increase in capital demand due to the relaxation of the limited commitment friction, investment falls and consumption rises. Even though consumption increases on impact, this response is purely transitory; consumption decreases below the initial level as the economy accumulates less capital.  Further, the increase in consumption induces a strong wealth effect, leading to a sharp drop in the supply of labor.
+
+In summary, the limited commitment friction serves to generate increases in  consumption, investment, and labor supply in response to positive news about future technological innovation. Good news about the future improves firms' ability to commit to implement better projects without expropriating inventors. This improvement in the quality of the project pool implemented in partnership leads to an investment boom and an increase in the supply of labor. For these responses, the limited commitment friction is key. Absent the limited commitment friction, our model  displays similar behavior as existing models. News about future innovations induces a reduction in economic activity today. Since the marginal product of capital remains unchanged -- the technology has not improved today --  households cut investment in favor of higher consumption today.
+
+
+
+
+
+
+\subsection{Response to  technological innovation}
+
+The response of the economy to the arrival of the technological revolution is qualitatively similar to models with embodied shocks. However, the limited commitment fiction serves to attenuate the economy's response to improvements in the technology frontier $\xi$. We show these responses in Figures~\ref{fig:Rxi1} and \ref{fig:Rxi2}.
+
+ An improvement in the level of frontier technology leads to an increase in the market value of new projects, as we see in Panel $A$ of Figure~\ref{fig:Rxi1}. Even though the increase in technology is permanent, the market value of future projects does not quite increase as much as the value of projects today, as we see in Panel $B$. The   reason is that due to the technological revolution, the economy will accumulate more capital in the future; in expectation, new projects in the future will be therefore less valuable than new projects today. As a result, firms are more tempted to steal inventors' ideas, hence fewer projects are implemented in partnership (Panel $C$). Since more projects are now inefficiently implemented, the average output of new projects -- ignoring the increase in $\xi$ -- is lower relative to a model without the commitment friction, as we see in Panel $D$. Similarly, Panel $E$ shows that the demand for new capital is lower relative to the frictionless model.  This effect implies that the response of investment to improvements in the frontier technology is attenuated relative to the frictionless model.  Last, Panel $F$ shows that the price of capital $p^I$ increases in response to improvements in frontier technology. In contrast, the quality-adjusted price of capital $p^I e^{-\xi}$ drops following an increase in $\xi$, illustrating the close connection between our model and models with investment-specific technical change.
+
+In Figure~\ref{fig:Rxi2}, we compute the response of quantities to an improvement in the technology frontier (Panel $A$) and contrast these responses to a version of the model without frictions (Panel $B$). A shock to $\xi$ improves the marginal efficiency of investment in both models; however, the limited commitment friction leads to endogenous attenuation as now \emph{fewer} projects are implemented efficiently. Hence, the increase in investment, and labor supply, is smaller in our model relative to the baseline case.  In both models, improvements in the frontier technology lead to a reduction in the market value of \emph{old} projects $M$, leading to an increase in the rate of utilization $u$. Part of this increase is allocated towards producing consumption goods, hence consumption also increases.
+
+Last, we should note that this attenuation result is somewhat driven by the specifics of the model, namely that the arrival of technological improvement is not correlated with the arrival of future improvements. If shocks to $\xi$ and $\mu$ were correlated, the relation between $\theta_t^*$ and $\xi_t$ is ambiguous. An example of such a model would be the case where the arrival rate of innovations was unobservable, and the market made inferences about $\mu$ using public news and improvements in $\xi$.
+
+\subsection{Comovement}
+
+Here, we explore the extent to which our model can quantitatively generate fluctuations and comovement in quantities consistent with the data. In Table~\ref{tab:BC}, we focus on business cycle frequencies (6 to 32 quarters). We see that, with the exception of hours worked, our model can generate realistic business cycle fluctuations. The volatility of output, consumption and investment is lower in the model than in the data, but the difference is not dramatic; the model estimates fall within the empirical confidence intervals. By contrast, hours worked are substantially less volatile in the model than in the data (0.41\% vs 1.87\%), though this is also generally true for the standard RBC model with only TFP shocks. Further, as we see in the bottom panel of Table~\ref{tab:BC}, investment, consumption, output and hours worked in the model comove at business cycle frequencies, similar to the data.
+
+Our model features two aggregate shocks: small and frequent fluctuations in the likelihood of innovations (news) and large infrequent changes in frontier technology. Though both shocks are responsible in generating comovement, the behavior of economic quantities at business cycle frequencies is dominated by the news shock. To illustrate this, panel $C$ shows that the benchmark model without the limited commitment friction generates negative comovement between consumption and  investment and labor supply at business cycle frequencies.
+
+Next, we focus on the behavior of quantities at lower frequencies (6 to 200 quarters). \cn{CominGertler2006}, document the existence low-frequency fluctuations in quantities -- medium run cycles using their terminology -- that are substantially more volatile than the high-frequency fluctuations typically studied in the literature. Our model replicates this fact. As we see in Table~\ref{tab:MR}, our model generates low frequency fluctuations in output, consumption, and investment that are in line with the data. As before, the exception is hours worked, which are substantially more volatile in the data than in the model. Focusing on the bottom panel of Table~\ref{tab:MR}, our model closely generates comovement in economic quantities at lower frequencies that are in line with the data. Last, panel $C$ illustrates that our friction is quantitatively important in generating comovement at lower frequencies; absent the limited commitment friction, consumption is negatively related to investment and labor supply at lower frequencies.
+
+\begin{ignore}
+
+\section{Empirical evidence}
+
+When exploring the link between our model and the data, identifying the equivalent of the firms in our model is somewhat challenging. The key differentiator between the firms and inventors in our model in terms of implementing projects is that the former can implement the project at a higher level of efficiency. This distinction can arise either due to superior access to financial markets or due to economies to scale and complementarities with existing assets.
+
+
+\subsection{Innovation in public and private firms}
+
+
+Our first proxy for the fraction of projects  $F(\theta^*_t)$ implemented in a partnership is fraction of patents granted to publicly listed firms. For much of the 20th century, publicly listed innovative firms enjoyed a superior access to capital through financial markets relative to private firms. Therefore, public firms  are less likely to be constrained in the level of implementation.  Changes in USPTO policy have affected the ease through which patent applications are issued, so patent quality is not homogenous. Hence, we weight patents by the number of forward citations.  We use  the data of \cite{KPSS2012} to construct our proxy for $F(\theta_t^*)$ as follows:
+\begin{equation}
+\hat F_t =  {\sum_{j\in \mathcal{J}_{pt}} C_{j} }\Bigg/ \left({ \sum_{j\in \mathcal{J}_{pt}} C_{j}} + \sum_{j\in \mathcal{J}_{rt}} C_{j}\right),
+\end{equation}
+where $j$ indexes patents; $C_j$ refers to the number of  forward citations to patent $j$; and $ \mathcal{J}_{pt}$ and  $\mathcal{J}_{rt}$ refers to the set of patents granted at year $t$ to public and private  firms, respectively. As we see in Panel $A$ of figure~\ref{fig:innovation}, our proxy $\hat F$ is somewhat procyclical and correlated with investment: the correlation between the bandpass-filtered component of investment and $\hat F$ is 36\%. However, this positive correlation is mostly driven by the first half of the sample.
+
+We estimate bivariate VARs of the form $Z= [\log X , \log \hat F_t ]'$, where $X$ is our variable of interest and $\hat F_t$ is our proxy for the share of projects in partnership $F(\theta_t^*)$. The number of lags are selected using the Akaike-Information Criterion, which advocates a lag length of one to two years for each of the systems.  We include a deterministic trend in all specifications.   We plot the impulse-response functions in Figure~\ref{fig:VARs}, along with 90 percent  confidence intervals. Standard errors are computed by a bootstrap simulation of 500 samples. The impulse responses are computed by ordering the fraction of innovation in public firms  $\hat \F$ last, so it affects the variables of interest only with a lag.
+
+We plot the impulse responses in Figure~\ref{fig:VARs}. As we see in panels $A$ to $C$, a ones-standard deviation increase in $\hat F$ is associated with an increase in output, investment and consumption; at the peak of the impulse response, these variables increase by 2.8\%, 5.2\% and 0.9\% respectively. By contrast, as we see in Panel D, hours worked displays no response. In panels $E$ and $F$ we see that the quality-adjusted price of equipment and utilization-adjusted TFP shows a moderate increase in response to a positive shock to $\hat F$, though the increase is not statistically significant.
+
+Our results should be interpreted with caution, since this  empirical exercise suffers from two major shortcomings. First, the last few decades have seen the rise of the venture capital industry in funding innovation. Hence, it is likely that during this recent period,  the distinction between private and publicly held firms is less informative about the main mechanism of our model. Second, in the model, the fraction of projects in partnership $F(\theta^*)$ is not a perfect proxy for the news shock $\mu_t$; it also depends on changes in the technology frontier $\xi$. As technology improves, firms are more tempted to steal inventors' ideas, hence $F(\theta_t^*)$ is decreasing in $\xi$. This implication however is sensitive to the specification of the model; allowing for a positive correlation between $\mu$ and $\xi$ -- as would be the case for instance in a model with learning about $\mu$  -- would reduce the sensitivity of $F(\theta_t^*)$ to $\xi$.
+\end{ignore}
+
+
+
+\section{Conclusion}
+
+We introduce a limited commitment friction in a relatively standard real business cycle model with news. Firms implement projects in partnership with inventors. Firms cannot commit not to expropriate inventors whose ideas are of sufficiently high quality. This friction effectively restricts the supply of  project ideas and therefore affects the equilibrium demand for capital. Good news about future technological innovations endogenously increases the supply of new ideas, and therefore affects the demand for capital today. Our mechanism allows us to generate realistic, news-driven business cycle fluctuations.
+
+\newpage
+
+\singlespace
+\bibliographystyle{jf}
+\bibliography{biblioKPMaster}
+
+\newpage
+
+\small
+\input{AppendixA.tex}
+\input{AppendixB.tex}
+
+
+
+
+
+%\end{document}
+
+
+\newpage
+\doublespace
+\begin{small}
+\input{Tables_v2013-0316.tex}
+\newpage
+\input{Figures_v2013-0316.tex}
+
+\end{small}
+%\newpage
+%\subfile{AppendixA_v2012-1111.tex}
+
+
+\end{document}
+
+%TODO:
+
+1) update graphs
+2) run VARs in simulated data
+3)  variance decomposition in the model
+
+
+
+
