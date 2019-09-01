@@ -1,7 +1,5 @@
-Dimitris Papanikolaou
+Difang Huang
 =====================
-![](https://www.dropbox.com/s/gqflrrper25iojc/image003.jpg?raw=1)
-
 ### Professor of Finance
 
 Kellogg School of Management, Northwestern University
