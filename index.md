@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Last updated on February, 2018
-
 I am ...
 
 My areas of interest are ....
