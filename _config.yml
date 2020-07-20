@@ -7,7 +7,7 @@
 
 # Site settings
 title: Difang Huang
-email:
+email: difang.huang@outlook.com
 description:
 #    Federal Reserve Bank of Minneapolis,
 #    Research Department,
@@ -17,8 +17,7 @@ description:
 #    Monash University,
 #    900 Dandenong Road, Caulfield East, Victoria
 baseurl: "" # the subpath of your site, e.g. /blog
-url: ""
-#"http://difang-huang.github.io" # the base hostname & protocol for your site
+url: "http://difang-huang.github.io" # the base hostname & protocol for your site
 github_username:  #difang-huang
 
 # Build settings
