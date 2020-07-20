@@ -14,8 +14,9 @@ description:
 #    90 Hennepin Avenue,
 #    Minneapolis, MN 55401
 #    Department of Econometrics and Business Statistics,
-#    Monash University,
-#    900 Dandenong Road, Caulfield East, Victoria
+    Monash University,
+    900 Dandenong Road,
+    Caulfield East, Melbourne
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://difang-huang.github.io" # the base hostname & protocol for your site
 github_username:  #difang-huang
