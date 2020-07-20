@@ -2,7 +2,7 @@
 layout: default
 ---
 
-updated on February, 2018
+Last updated on February, 2018
 
 I am ...
 
