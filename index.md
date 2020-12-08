@@ -15,9 +15,10 @@ My areas of interest are ....
 ## Working Papers
 
 - Gender Differences In Reaction To Enforcement Mechanisms: A Large-Scale Natural Field Experiment (with Zhengyang Bao)
+
   - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) — [Data and Program](https://github.com/difang-huang?tab=repositories)
 
-  - Presentations: Beijing Normal University; Monash Business School Colloquium 2020; Monash University; Shanghai International Studies University
+  - Presentations: Beijing Normal University Experimental Economics 2020; Monash Business School Colloquium 2020; Monash University; Shanghai International Studies University
 
   - Revise and Resubmit at Journal of Finance
 
