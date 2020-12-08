@@ -14,6 +14,12 @@ My areas of interest are ....
 
 ## Working Papers
 
+- Gender Differences In Reaction To Enforcement Mechanisms: A Large-Scale Natural Field Experiment (with Zhengyang Bao)
+
+  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282)
+
+  
+
 
 
 ## Code and Data
