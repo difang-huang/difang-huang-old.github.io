@@ -10,13 +10,20 @@ My areas of interest are ....
 
 ## Publications
 
+- How Effective Is Social Distancing? Covid Economics, 59, p.118-148.
+  - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)
 
+  - Presentations: Placekey Community virtual conference 2020; Monash University;
+
+    
 
 ## Working Papers
 
 - Gender Differences In Reaction To Enforcement Mechanisms: A Large-Scale Natural Field Experiment (with Zhengyang Bao)
 
-  - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) — [Data and Program](https://github.com/difang-huang?tab=repositories)
+  - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282)
+
+  - [Data and Program](https://github.com/difang-huang?tab=repositories)
 
   - Presentations: Beijing Normal University Experimental Economics 2020; Monash Business School Colloquium 2020; Monash University; Shanghai International Studies University
 
