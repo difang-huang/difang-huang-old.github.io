@@ -2,7 +2,9 @@
 layout: default
 ---
 
-I am a Ph.D. student at Monash University.
+Ph.D. student (Since 2018)
+
+Monash University
 
 
 
