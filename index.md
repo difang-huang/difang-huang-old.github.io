@@ -2,9 +2,7 @@
 layout: default
 ---
 
-Ph.D. student (Since 2018)
-
-Monash University
+PhD student (since 2018), Monash University
 
 
 
@@ -24,6 +22,5 @@ Monash University
 
 Github [repository](https://github.com/difang-huang?tab=repositories), includes
 
-- Code and data used in published papers
-- Code containing additional functionality for Mathematica/Matlab/SAS/Stata.
-
+- Code and data used in published papers;
+- Code containing additional functionality for Mathematica/Matlab/Python/R/Stata.
