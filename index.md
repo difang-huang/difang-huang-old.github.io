@@ -2,9 +2,7 @@
 layout: default
 ---
 
-I am ...
-
-My areas of interest are ....
+I am a Ph.D. student at Monash University.
 
 
 
