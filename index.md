@@ -18,9 +18,9 @@ PhD student (since 2018), Monash University
 
 
 
-## Data and Program
+## Software
 
 Github [repository](https://github.com/difang-huang?tab=repositories), includes
 
 - Data and program used in published papers;
-- Data and program containing additional functionality for Mathematica/Matlab/Python/R/Stata.
+- Code containing additional functionality for Mathematica/Matlab/Python/R/Stata.
