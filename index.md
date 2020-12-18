@@ -2,9 +2,7 @@
 layout: default
 ---
 
-中文名：黄棣芳
-
-PhD student (since 2018), Monash University
+PhD student (since 2018), Monash University.
 
 
 
@@ -20,7 +18,7 @@ PhD student (since 2018), Monash University
 
 
 
-## Software
+## Code and Data
 
 Github [repository](https://github.com/difang-huang?tab=repositories), includes
 
