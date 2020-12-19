@@ -8,7 +8,7 @@ PhD student (since 2018), Monash University.
 
 ## Publications
 
-- [How Effective Is Social Distancing?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321) *Covid Economics*, 59, p.118-148.
+- [How Effective Is Social Distancing?](https://cepr.org/file/10060/download?token=eOeGMKrX) *Covid Economics*, 59, p.118-148. Link to [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321). 
 
 
 
