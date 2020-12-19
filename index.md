@@ -2,7 +2,7 @@
 layout: default
 ---
 
-PhD student (since 2018), Monash University.
+PhD student (since September 2018), Monash University.
 
 
 
