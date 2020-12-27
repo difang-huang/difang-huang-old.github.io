@@ -23,6 +23,7 @@ PhD student (since September 2018), Monash University.
 - [Does the FOMC Cycle Affect Credit Risk?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662) joint with Yubin Li, Xinjie Wang, and Zhaodong (Ken) Zhong. Link to [Replication Code and Data](https://github.com/difang-huang?tab=repositories).
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang, and Zhaodong (Ken) Zhong. Link to [Replication Code and Data](https://github.com/difang-huang?tab=repositories).
 - [What Do Two Million Credit Lines Say About the FinTech Fragility?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770) joint with Zhengyang Bao. 
+- [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Deshui Yu, and Li Chen.
 
 
 
