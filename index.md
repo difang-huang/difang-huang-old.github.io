@@ -2,7 +2,11 @@
 layout: default
 ---
 
-PhD student (since September 2018), Monash University.
+### PhD student
+
+Department of Econometrics and Business Statistics, Monash University.
+
+[Email](mailto:difang.huang@monash.edu)  |  [CV]()  | [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606)
 
 
 
