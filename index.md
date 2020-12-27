@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am PhD student at the Department of Econometrics and Business Statistics, Monash University since July, 2018. My areas of interest are econometrics and finance.
+I am PhD student at the Department of Econometrics and Business Statistics at the Monash University since July 2018. My areas of interest are econometrics and finance.
 
 
 
