@@ -8,7 +8,9 @@ I am PhD student at the Department of Econometrics and Business Statistics, Mona
 
 ## Publications
 
-- [How Effective Is Social Distancing?](https://cepr.org/file/10060/download?token=eOeGMKrX) **Covid Economics**, 59, p.118-148. Link to [Replication Code and Data](https://github.com/difang-huang?tab=repositories). Link to [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321). 
+- [How Effective Is Social Distancing?](https://cepr.org/file/10060/download?token=eOeGMKrX) **Covid Economics**, 59, p.118-148. Link to [Replication Code and Data](https://github.com/difang-huang?tab=repositories). Link to [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321).
+
+  Media: [CEPR Video Vox](https://voxeu.org/content/how-effective-social-distancing-evidence-us).
 
 
 
