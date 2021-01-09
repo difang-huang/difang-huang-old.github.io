@@ -4,12 +4,9 @@ layout: default
 
 I am PhD student at the Department of Econometrics and Business Statistics, Monash University since July 2018. My areas of interest are econometrics and finance.
 
-
-
 ## Publications
 
 - [How Effective Is Social Distancing?](https://cepr.org/file/10060/download?token=eOeGMKrX) **Covid Economics**, 59, p.118-148. 
-
   - Link to [Replication Code and Data](https://github.com/difang-huang?tab=repositories). 
   - Link to [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321). 
   - Link to [CEPR Video Vox](https://voxeu.org/content/how-effective-social-distancing-evidence-us).
@@ -39,6 +36,5 @@ I am PhD student at the Department of Econometrics and Business Statistics, Mona
 ## Code and Data
 
 Github [repository](https://github.com/difang-huang?tab=repositories), includes
-
 - Data and program used in published papers;
 - Code containing additional functionality for Mathematica/Matlab/Python/R/Stata.
