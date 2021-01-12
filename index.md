@@ -2,8 +2,8 @@
 layout: default
 ---
 
-- I am PhD student at the Monash University since August 2018. 
-- My areas of interest are econometrics and finance.
+- Ph.D. student, Monash University. 
+- Areas of interests: econometrics and finance.
 
 
 ## Publications
