@@ -2,8 +2,8 @@
 layout: default
 ---
 
-- Ph.D. student, Monash University. 
-- Areas of interests: econometrics and finance.
+- Ph.D. student at Monash University (since July 2018). 
+- Areas of interests are econometrics and finance.
 
 
 ## Publications
