@@ -9,9 +9,9 @@ layout: default
 ## Publications
 
 - [How Effective Is Social Distancing?](https://cepr.org/file/10060/download?token=eOeGMKrX) **Covid Economics**, 59, p.118-148. 
-  - Link to [Replication Code and Data](https://github.com/difang-huang?tab=repositories). 
-  - Link to [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321). 
-  - Link to [CEPR VoxEU (Interview)](https://voxeu.org/content/how-effective-social-distancing-evidence-us).
+  - Link to [Replication Code and Data](https://github.com/difang-huang/social-distancing). 
+  - Link to [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321).
+  - Media: [CEPR VoxEU](https://voxeu.org/content/how-effective-social-distancing-evidence-us).
 
 ## Papers under Revision
 
@@ -21,11 +21,13 @@ layout: default
 ## Working Papers
 
 - [Does the FOMC Cycle Affect Credit Risk?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. 
+
   - Link to [Replication Code](https://github.com/difang-huang?tab=repositories).
-  
+
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong. 
+
   - Link to [Replication Code](https://github.com/difang-huang?tab=repositories).
-  
+
 - [What Do Two Million Credit Lines Say About the FinTech Fragility?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770) joint with Zhengyang Bao.
   - Link to [Sample Data](https://github.com/difang-huang?tab=repositories).
 
