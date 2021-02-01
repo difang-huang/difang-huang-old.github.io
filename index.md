@@ -9,7 +9,7 @@ layout: default
 ## Publications
 
 - [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59) **Covid Economics**, 59, p.118-148. 
-  - Link to [SSRN version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321). 
+  - Working Paper: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321). 
   - Media: [CEPR VoxEU](https://voxeu.org/content/how-effective-social-distancing-evidence-us).
 
 ## Papers under Revision
