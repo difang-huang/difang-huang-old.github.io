@@ -1,3 +1,1 @@
-## A very simple github website
-
-Last Update at December, 2020.
+A simple github page website.
