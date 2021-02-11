@@ -20,7 +20,6 @@ layout: default
 
 - [Does the FOMC Cycle Affect Credit Risk?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. 
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong. 
-
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu.
 - [Earnings Yield, Smoothing Adjustment, and Dividend Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056), joint with Li Chen and Deshui Yu.
     
