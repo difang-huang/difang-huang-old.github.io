@@ -15,6 +15,7 @@ layout: default
 
 - [Gender Differences In Reaction To Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao. Revise and Resubmit, **Journal of Finance**. 
 - [What Do Two Million Credit Lines Say About the FinTech Fragility?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770) joint with Zhengyang Bao. Revise and Resubmit, **Journal of Financial and Quantitative Analysis**. 
+ - [[FinTech Borrower Location Map](https://www.dropbox.com/s/j9awi5ht3c1b7p6/figure1a.html?dl=0)]
 - [Does the FOMC Cycle Affect Credit Risk?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. Revise and Resubmit, **Financial Management**. 
 
 ## Working Papers
