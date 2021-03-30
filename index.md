@@ -24,7 +24,7 @@ layout: default
 - [Earnings Yield, Smoothing Adjustment, and Dividend Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056), joint with Li Chen and Deshui Yu.
 - [Global Stock Network Connected and Resonance Effect Based on Time-Zone VAR Model with LASSO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596), joint with Muzi Chen and Boyao Wu.
 
-## Invited Contributions
+## Invited Publications
 - [Dynamic Analyses of Contagion Risk and Module Evolution on the SSE A-Shares Market Based on Minimum Information Entropy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799784), joint with Muzi Chen and Boyao Wu.
 
 ## Code and Data
