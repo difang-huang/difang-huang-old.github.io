@@ -10,6 +10,7 @@ layout: default
 
 - [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59) **Covid Economics**, 59, p.118-148. 
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)]  [[CEPR VoxEU Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)].
+- [Does the FOMC Cycle Affect Credit Risk?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. Conditionally Accepted, **Financial Management**. 
 
 ## Papers under Revision
 
@@ -17,7 +18,6 @@ layout: default
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] 
 - [What Do Two Million Credit Lines Say About the FinTech Fragility?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770) joint with Zhengyang Bao. Revise and Resubmit, **Journal of Financial and Quantitative Analysis**.
   - [Internet Appendix]
-- [Does the FOMC Cycle Affect Credit Risk?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. Revise and Resubmit, **Financial Management**. 
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu. Revise and Resubmit, **Journal of Empirical Finance**, invited submission.
   - [Internet Appendix]
 
