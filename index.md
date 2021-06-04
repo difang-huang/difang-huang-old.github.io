@@ -11,7 +11,7 @@ layout: default
 - [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59) **Covid Economics**, 59, p.118-148. 
   - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321) | [Replication files](https://github.com/difang-huang/social-distancing) | [CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox). 
 - [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong, **Financial Management**, 2021+.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Code](https://github.com/difang-huang/fomc-cycle)].
+  - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662) | [Replication files](https://github.com/difang-huang/fomc-cycle).
 
 ## Papers under Revision
 
