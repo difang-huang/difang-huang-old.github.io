@@ -9,16 +9,16 @@ layout: default
 ## Publications
 
 - [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59) **Covid Economics**, 59, p.118-148. 
-  - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321);[Replication files](https://github.com/difang-huang/social-distancing);[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox) 
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)]  [[Code](https://github.com/difang-huang/social-distancing)] [[Video](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)].
 - [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong, **Financial Management**, 2021+.
-  - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662) | [Replication files](https://github.com/difang-huang/fomc-cycle)
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Code](https://github.com/difang-huang/fomc-cycle)].
 
 ## Papers under Revision
 
 - [Gender Differences In Reaction To Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao. Revise and Resubmit, **Journal of Finance**. 
-  - [AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)
+  - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] 
 - [An Anatomy of FinTech Lending in China During COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770), joint with Zhengyang Bao. Revise and Resubmit, **Journal of Financial and Quantitative Analysis**.
-  - [JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)
+  - [[Video](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)]
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu. Revise and Resubmit, **Journal of Empirical Finance**, invited submission.
 
 ## Working Papers
@@ -29,7 +29,7 @@ layout: default
 
 ## Invited Contributions
 - [Dynamic Analyses of Contagion Risk and Module Evolution on the SSE A-Shares Market Based on Minimum Information Entropy](https://www.mdpi.com/1099-4300/23/4/434), joint with Muzi Chen, Yuhang Wang, and Boyao Wu. **Entropy**. 2021, 23(4), 434.
-  - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799784)
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799784)].
 
 ## Code and Data
 
