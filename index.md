@@ -29,7 +29,6 @@ layout: default
 
 ## Invited Contributions
 - [Dynamic Analyses of Contagion Risk and Module Evolution on the SSE A-Shares Market Based on Minimum Information Entropy](https://www.mdpi.com/1099-4300/23/4/434), joint with Muzi Chen, Yuhang Wang, and Boyao Wu. **Entropy**. 2021, 23(4), 434.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3799784)]
 
 ## Code and Data
 
