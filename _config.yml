@@ -7,7 +7,7 @@
 
 # Site settings
 title: Difang Huang
-email: difang.huang"at-sign"monash.edu
+email: difang.huang@monash.edu
 description:
       Monash University,
       900 Dandenong Road,
@@ -15,7 +15,7 @@ description:
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://difang-huang.github.io" # the base hostname & protocol for your site
-github_username:  #difang-huang
+github_username: difang-huang
 
 # Build settings
 markdown: kramdown
