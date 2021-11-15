@@ -2,7 +2,9 @@
 layout: default
 ---
 
-I am a third-year Ph.D. candidate at Monash University. My research focuses on the big data analysis and financial technology. I will be on the job market during the 2021-2022 academic year.
+- I am a third-year Ph.D. candidate at Monash University. 
+- My research focuses on the big data analysis and financial technology. 
+- I will be on the job market during the 2021-2022 academic year.
 
 
 ## Publications
