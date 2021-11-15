@@ -2,8 +2,7 @@
 layout: default
 ---
 
-- Ph.D. student at Monash University. 
-- Areas of interests are econometrics and finance.
+I am a third-year Ph.D. candidate at Monash University College. My research focuses on the big data analysis and financial technology. I will be on the job market during the 2021-2022 academic year.
 
 
 ## Publications
