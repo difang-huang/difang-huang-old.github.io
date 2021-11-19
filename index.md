@@ -13,7 +13,7 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)]  [[Replication files](https://github.com/difang-huang/social-distancing)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
 - [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong, **Financial Management**, 2021+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
-- [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430), joint with Zhengyang Bao. **Journal of Financial and Quantitative Analysis**, 2021, 56(7):2320–2355.
+- [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430), joint with Zhengyang Bao. **Journal of Financial and Quantitative Analysis**, 2021, 56(7): 2320–2355.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)] [[VoxChina](http://voxchina.org/show-3-241.html)]
 
 ## Working Papers
