@@ -9,20 +9,21 @@ layout: default
 
 ## Research
 
-### Asset Pricing
-- [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong, **Financial Management**, 2021+.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
-- [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu. **R&R**.
-  - [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
-- [Earnings Yield, Smoothing Adjustment, and Dividend Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056), joint with Li Chen and Deshui Yu.
-- [Cross-Sectional Uncertainty and Aggregate Stock Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264), joint with Deshui Yu.
-- [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong. 
-
 ### Fintech
 - [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430), joint with Zhengyang Bao. **Journal of Financial and Quantitative Analysis**, 2021, 56(7): 2320–2355.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)] [[VoxChina](http://voxchina.org/show-3-241.html)]
 - [Gender Differences In Reaction To Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao. **R&R**.
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
+
+### Asset Pricing
+- [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong, **Financial Management**, 2021+.
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
+- [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong.
+- [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu. **R&R**.
+  - [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
+- [Earnings Yield, Smoothing Adjustment, and Dividend Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056), joint with Li Chen and Deshui Yu.
+- [Cross-Sectional Uncertainty and Aggregate Stock Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264), joint with Deshui Yu.
+
 
 ### Econometrics
 - [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59) **Covid Economics**, 59, p.118-148. 
