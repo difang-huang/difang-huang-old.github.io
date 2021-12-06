@@ -20,7 +20,7 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong.
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu. **R&R**.
-  - [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
+  - [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
 - [Earnings Yield, Smoothing Adjustment, and Dividend Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056), joint with Li Chen and Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/smoothing-adjustment)]
 - [Cross-Sectional Uncertainty and Aggregate Stock Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264), joint with Deshui Yu.
