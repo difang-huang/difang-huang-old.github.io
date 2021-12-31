@@ -6,6 +6,8 @@ layout: default
 - My research focuses on the big data analysis and Fintech. 
 - I will be on the job market during the 2021-2022 academic year.
 
+<img align="right" src="/image/Hall.jpg" width = "200"/>
+
 
 ## Research
 
