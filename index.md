@@ -16,6 +16,7 @@ layout: default
 
 ### Gender Economics
 - [Reform scientific elections to improve gender equality](), joint with Zhengyang Bao. **Nature Human Behaviour**, 2022+.
+  -  [[Replication files](https://osf.io/gvy9c/)]
 - [Gender Differences In Reaction To Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao. **R&R**.
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
 
