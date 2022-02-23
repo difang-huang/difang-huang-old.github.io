@@ -15,9 +15,9 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)] [[VoxChina](http://voxchina.org/show-3-241.html)]
 
 ### Gender Economics
-- [Reform Scientific Elections To Improve Gender Equality](), joint with Zhengyang Bao. **Nature Human Behaviour**, 2022+.
+- [Reform Scientific Elections to Improve Gender Equality](), joint with Zhengyang Bao. **Nature Human Behaviour**, 2022+.
   -  [[Replication files](https://osf.io/gvy9c/)]
-- [Gender Differences In Reaction To Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao. **R&R**.
+- [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao. **R&R**.
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
 
 ### Asset Pricing
