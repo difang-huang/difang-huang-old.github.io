@@ -4,7 +4,6 @@ layout: default
 
 - I am a third-year Ph.D. candidate at Monash University. 
 - My research focuses on the big data analysis and Fintech. 
-- I will be on the job market during the 2021-2022 academic year.
 
 
 
@@ -15,7 +14,7 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)] [[VoxChina](http://voxchina.org/show-3-241.html)]
 
 ### Gender Economics
-- [Reform Scientific Elections to Improve Gender Equality](), joint with Zhengyang Bao. **Nature Human Behaviour**, 2022+.
+- [Reform Scientific Elections to Improve Gender Equality](https://doi.org/10.1038/s41562-022-01322-w), joint with Zhengyang Bao. **Nature Human Behaviour**, 2022+.
   -  [[Replication files](https://osf.io/gvy9c/)]
 - [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao. **R&R**.
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
