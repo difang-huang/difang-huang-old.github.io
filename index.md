@@ -9,9 +9,10 @@ layout: default
 
 ## Research
 
-### Financial Technology
+### Financial Intermediary
 - [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430), joint with Zhengyang Bao. **Journal of Financial and Quantitative Analysis**, 2021, 56(7): 2320–2355.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)] [[VoxChina](http://voxchina.org/show-3-241.html)]
+- [Tardy Learning, Cognitive Biases, and Decision-Making: Evidence from SMEs' Response to COVID-19 in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677), joint with Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou. 
 
 ### Gender Economics
 - [Reform Scientific Elections to Improve Gender Equality](https://doi.org/10.1038/s41562-022-01322-w), joint with Zhengyang Bao. **Nature Human Behaviour**, 2022+.
