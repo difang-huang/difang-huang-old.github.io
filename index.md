@@ -21,7 +21,7 @@ layout: default
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
 
 ### Asset Pricing
-- [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong, **Financial Management**. 2022, 51: 143–167.
+- [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. **Financial Management**. 2022, 51: 143–167.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong.
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu. **R&R**.
@@ -41,7 +41,7 @@ layout: default
 
 ### Network
 - [Dynamic Analyses of Contagion Risk and Module Evolution on the SSE A-Shares Market Based on Minimum Information Entropy](https://www.mdpi.com/1099-4300/23/4/434), joint with Muzi Chen, Yuhang Wang, and Boyao Wu. **Entropy**. 2021, 23(4), 434.
-- [Dynamic Correlation of Market Connectivity, Risk Spillover and Abnormal Volatility in Stock Price](https://doi.org/10.1016/j.physa.2021.126506), joint with Muzi Chen, Li Nan, Lifeng Zheng, and Boyao Wu. **Physica A**. Volume 587, 2022.
+- [Dynamic Correlation of Market Connectivity, Risk Spillover and Abnormal Volatility in Stock Price](https://doi.org/10.1016/j.physa.2021.126506), joint with Muzi Chen, Li Nan, Lifeng Zheng, and Boyao Wu. **Physica A: Statistical Mechanics and its Applications**. Volume 587, 2022.
 - [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596), joint with Muzi Chen and Boyao Wu.
 - [Interlocking Directorates and Firm Performance: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022), joint with Muzi Chen and Boyao Wu.
 
