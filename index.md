@@ -17,14 +17,14 @@ layout: default
 ### Gender Economics
 - [Reform Scientific Elections to Improve Gender Equality](https://www.nature.com/articles/s41562-022-01322-w), joint with Zhengyang Bao. **Nature Human Behaviour**, 2022+.
   -  [[Replication files](https://osf.io/gvy9c/)]
-- [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao. **R&R**.
+- [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao.
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
 
 ### Asset Pricing
 - [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. **Financial Management**. 2022, 51: 143–167.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong.
-- [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu. **R&R**.
+- [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
 - [Earnings Yield, Smoothing Adjustment, and Dividend Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056), joint with Li Chen and Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/smoothing-adjustment)]
