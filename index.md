@@ -30,6 +30,7 @@ layout: default
   - [[Replication files](https://github.com/difang-huang/smoothing-adjustment)]
 - [Forecasting Excess Returns: The Role of Cross-Sectional Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264), joint with Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/csu)]
+- [Herd to Repurchase](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266), joint with Zhengyang Bao and Dongxu Li.
 
 
 ### Econometrics
