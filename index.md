@@ -24,6 +24,7 @@ layout: default
 - [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. **Financial Management**. 2022, 51: 143–167.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong.
+- [Geographic Proximity of Underwriters and Information Channel Substitution Effects in Bond Markets: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555), joint with Muzi Chen, Yan Wang, and Xiaoguang Yang.
 - [Herd to Repurchase](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266), joint with Zhengyang Bao and Dongxu Li.
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
