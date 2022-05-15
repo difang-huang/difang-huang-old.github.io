@@ -2,8 +2,6 @@
 layout: default
 ---
 
-
-- I am a Ph.D. candidate at Monash University.
 - My research focuses on the big data analysis and Fintech. 
 
 
