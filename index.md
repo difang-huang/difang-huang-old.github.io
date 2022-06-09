@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to my homepage!
+# Welcome to my homepage!
 
 - My research focuses on the big data analysis and Fintech. 
 
