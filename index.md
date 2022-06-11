@@ -17,7 +17,7 @@ layout: default
 
 ### Gender Economics
 - [Reform Scientific Elections to Improve Gender Equality](https://www.nature.com/articles/s41562-022-01322-w), joint with Zhengyang Bao. **Nature Human Behaviour**, 2022, 6(4): 478–479.
-  -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)][[Replication files](https://osf.io/gvy9c/)]
+  -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication files](https://osf.io/gvy9c/)]
 - [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao.
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
 
