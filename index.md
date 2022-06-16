@@ -38,8 +38,8 @@ layout: default
 ### Econometrics
 - [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59) **Covid Economics**, 59, p.118-148. 
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)]  [[Replication files](https://github.com/difang-huang/social-distancing)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
-- [Semiparametric Estimation of Average Treatment Effect](https://drive.google.com/file/d/1u900vPMgdcI2ygH4E1eo03b7eS-uKrxb/view?usp=sharing), joint with Jiti Gao and Tatsushi Oka.
-  - [[Replication files](https://github.com/difang-huang/semi-ate)]
+- [Semiparametric Single-Index Estimation for Average Treatment Effects](https://drive.google.com/file/d/1u900vPMgdcI2ygH4E1eo03b7eS-uKrxb/view?usp=sharing), joint with Jiti Gao and Tatsushi Oka.
+  - [[arXiv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/semi-ate)]
 
 
 ### Network
