@@ -19,7 +19,7 @@ layout: default
 - [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w), joint with Zhengyang Bao. **Nature Human Behaviour**, 2022, 6(4): 478–479.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication files](https://osf.io/gvy9c/)]
 - [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao.
-  - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [AEA Poster(https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
+  - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
 
 ### Asset Pricing
 - [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. **Financial Management**. 2022, 51: 143–167.
@@ -38,7 +38,7 @@ layout: default
 ### Econometrics
 - [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59) **Covid Economics**, 59, p.118-148. 
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)]  [[Replication files](https://github.com/difang-huang/social-distancing)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
-- [Semiparametric Single-Index Estimation for Average Treatment Effects]([https://drive.google.com/file/d/1u900vPMgdcI2ygH4E1eo03b7eS-uKrxb/view?usp=sharing](https://drive.google.com/file/d/1Le78PpmCVjT1tfnzS5COOl-MUrWPGGLg/view?usp=sharing)), joint with Jiti Gao and Tatsushi Oka.
+- [Semiparametric Single-Index Estimation for Average Treatment Effects](https://drive.google.com/file/d/1Le78PpmCVjT1tfnzS5COOl-MUrWPGGLg/view?usp=sharing), joint with Jiti Gao and Tatsushi Oka.
   - [[arXiv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)]  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)]  [[Replication files](https://github.com/difang-huang/semi-ate)]
 
 
