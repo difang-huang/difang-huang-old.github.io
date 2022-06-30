@@ -21,12 +21,16 @@ layout: default
 - [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao.
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
 
-### Asset Pricing
+
+### Credit Risk
 - [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. **Financial Management**. 2022, 51: 143–167.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong.
 - [Geographic Proximity of Underwriters and Information Substitution Effects in Bond Markets: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555), joint with Muzi Chen, Yan Wang, and Xiaoguang Yang.
 - [Herd to Repurchase](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266), joint with Zhengyang Bao and Dongxu Li.
+
+
+### Forecasting
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
 - [Adjusted Earnings Yield and Dividend Predictability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056), joint with Li Chen and Deshui Yu.
@@ -48,8 +52,8 @@ layout: default
 - [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596), joint with Muzi Chen and Boyao Wu.
 - [Interlocking Directorates and Firm Performance: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022), joint with Muzi Chen and Boyao Wu.
 
-## Code and Data
 
+## Code and Data
 Github [repository](https://github.com/difang-huang?tab=repositories), includes
 - Data and program used in published papers;
 - Code containing additional functionality for Mathematica/Matlab/Python/R/Stata.
