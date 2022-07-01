@@ -27,7 +27,7 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong.
 - [Geographic Proximity of Underwriters and Information Substitution Effects in Bond Markets: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555), joint with Muzi Chen, Yan Wang, and Xiaoguang Yang.
-- [Herd to Repurchase](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266), joint with Zhengyang Bao and Dongxu Li.
+- [Early Mover Advantages in Financial Markets: Evidence from Stock Repurchases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266), joint with Zhengyang Bao and Dongxu Li.
 
 
 ### Forecasting
