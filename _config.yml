@@ -9,9 +9,7 @@
 title: Difang Huang
 email: difang.huang@outlook.com
 description:
-      Monash University,
-      900 Dandenong Road,
-      Caulfield East, VIC 3145
+      
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://difang-huang.github.io" # the base hostname & protocol for your site
