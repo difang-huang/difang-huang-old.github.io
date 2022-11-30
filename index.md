@@ -12,7 +12,6 @@ layout: default
 - [Impact of lockdown and government subsidies on rural households at early COVID-19 pandemic in China](https://www.emerald.com/insight/content/doi/10.1108/CAER-12-2021-0239/full/html), joint with Nan Li, Muzi Chen, Haoyu Gao, and Xiaoguang Yang. **China Agricultural Economic Review**, 2023+.
   - [[Research Square](https://www.researchsquare.com/article/rs-2290835/)] [[Survey](https://drive.google.com/file/d/1iDa2jChZVco6E6qco15R788VK6hqAMq4/view?usp=sharing)]
 - [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w), joint with Zhengyang Bao. **Nature Human Behaviour**, 2022, 6(4): 478–479.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)]
 - [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. **Financial Management**. 2022, 51: 143–167.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
 - [Dynamic Correlation of Market Connectivity, Risk Spillover and Abnormal Volatility in Stock Price](https://doi.org/10.1016/j.physa.2021.126506), joint with Muzi Chen, Li Nan, Lifeng Zheng, and Boyao Wu. **Physica A: Statistical Mechanics and its Applications**, 2022, 587, 126506.
