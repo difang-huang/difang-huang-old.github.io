@@ -6,14 +6,44 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Difang Huang
-email: difang.huang@outlook.com
-description:
+# title: Difang Huang
+# email: difang.huang@outlook.com
+# description:
       
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://difang-huang.github.io" # the base hostname & protocol for your site
-github_username: #difang-huang
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "http://difang-huang.github.io" # the base hostname & protocol for your site
+# github_username: #difang-huang
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
+
+remote_theme: yaoyao-liu/minimal-light
+
+# Basic Information 
+title: Difang Huang
+position: Ph.D. Student
+affiliation: Your Affiliation
+email: difang.huang (at) outlook.com
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+# keywords: minimal academic
+# description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+# canonical: https://minimal-light.yyliu.net/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/
+github_link: https://github.com/yaoyao-liu/minimal-light
+linkedin: https://www.linkedin.com/
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: UA-111540567-4
