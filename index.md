@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: homepage
 ---
 
 **Welcome to my homepage!**
