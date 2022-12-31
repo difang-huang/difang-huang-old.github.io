@@ -38,7 +38,7 @@ layout: default
 ### Big Data: Forecasting
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
-- [Adjusted Earnings Yield and Dividend Predictability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056), joint with Li Chen and Deshui Yu.
+- [Forecasting Dividend Growth: The Role of Adjusted Earnings Yield](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056), joint with Li Chen and Deshui Yu. **Economic Modelling**, 2023+.
   - [[Replication files](https://github.com/difang-huang/smoothing-adjustment)]
 - [Forecasting Excess Returns: The Role of Cross-Sectional Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264), joint with Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/csu)]
