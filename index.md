@@ -7,7 +7,6 @@ layout: default
 - My research focuses on the AI, big data, equality, sustainability, and technology. 
 - [Google Scholar](https://scholar.google.com/citations?user=CZ61snQAAAAJ&hl=en&oi=ao) // [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
-
 ## Research
 
 ### Gender Equality
@@ -32,7 +31,11 @@ layout: default
 - [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555), joint with Muzi Chen, Yan Wang, and Xiaoguang Yang.
 - [Early Mover Advantages in Financial Markets: Evidence from Stock Repurchases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266), joint with Zhengyang Bao and Dongxu Li.
 
-### Forecasting
+### Rural Households
+- [Impact of lockdown and government subsidies on rural households at early COVID-19 pandemic in China](https://www.emerald.com/insight/content/doi/10.1108/CAER-12-2021-0239/full/html), joint with Nan Li, Muzi Chen, Haoyu Gao, and Xiaoguang Yang. **China Agricultural Economic Review**, 2023+.
+- [How Do Logistics Disruptions Affect Rural Households? Evidence from COVID-19 in China](https://www.mdpi.com/2071-1050/15/1/465), joint with Nan Li and Muzi Chen. **Sustainability**, 2023, 15(1), 465.
+
+### Big Data: Forecasting
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
 - [Adjusted Earnings Yield and Dividend Predictability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056), joint with Li Chen and Deshui Yu.
@@ -40,21 +43,17 @@ layout: default
 - [Forecasting Excess Returns: The Role of Cross-Sectional Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264), joint with Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/csu)]
 
-### Treatment Effects
-- [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59) **Covid Economics**, 59, p.118-148. 
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)]  [[Replication files](https://github.com/difang-huang/social-distancing)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
-- [Semiparametric Single-Index Estimation for Average Treatment Effects](https://www.monash.edu/business/ebs/research/publications/ebs/wp10-2022.pdf), joint with Jiti Gao and Tatsushi Oka.
-  - [[arXiv](https://arxiv.org/abs/2206.08503)]  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)]  [[Replication files](https://github.com/difang-huang/semi-ate)]
-
-### Network
+### Big Data: Network
 - [Dynamic Analyses of Contagion Risk and Module Evolution on the SSE A-Shares Market Based on Minimum Information Entropy](https://www.mdpi.com/1099-4300/23/4/434), joint with Muzi Chen, Yuhang Wang, and Boyao Wu. **Entropy**, 2021, 23(4), 434.
 - [Dynamic Correlation of Market Connectivity, Risk Spillover and Abnormal Volatility in Stock Price](https://doi.org/10.1016/j.physa.2021.126506), joint with Muzi Chen, Li Nan, Lifeng Zheng, and Boyao Wu. **Physica A: Statistical Mechanics and its Applications**, 2022, 587, 126506.
 - [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596), joint with Muzi Chen and Boyao Wu.
 - [Interlocking Directorates and Firm Performance: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022), joint with Muzi Chen and Boyao Wu.
 
-### Rural Households
-- [Impact of lockdown and government subsidies on rural households at early COVID-19 pandemic in China](https://www.emerald.com/insight/content/doi/10.1108/CAER-12-2021-0239/full/html), joint with Nan Li, Muzi Chen, Haoyu Gao, and Xiaoguang Yang. **China Agricultural Economic Review**, 2023+.
-- [How Do Logistics Disruptions Affect Rural Households? Evidence from COVID-19 in China](https://www.mdpi.com/2071-1050/15/1/465), joint with Nan Li and Muzi Chen. **Sustainability**, 2023, 15(1), 465.
+### Big Data: Treatment Effects
+- [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59) **Covid Economics**, 59, p.118-148. 
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)]  [[Replication files](https://github.com/difang-huang/social-distancing)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
+- [Semiparametric Single-Index Estimation for Average Treatment Effects](https://www.monash.edu/business/ebs/research/publications/ebs/wp10-2022.pdf), joint with Jiti Gao and Tatsushi Oka.
+  - [[arXiv](https://arxiv.org/abs/2206.08503)]  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)]  [[Replication files](https://github.com/difang-huang/semi-ate)]
 
 
 **Code and Data**
