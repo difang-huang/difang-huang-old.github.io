@@ -36,10 +36,10 @@ layout: default
 - [How Do Logistics Disruptions Affect Rural Households? Evidence from COVID-19 in China](https://www.mdpi.com/2071-1050/15/1/465), joint with Nan Li and Muzi Chen. **Sustainability**, 2023, 15(1), 465.
 
 ### Big Data: Forecasting
+- [Forecasting Dividend Growth: The Role of Adjusted Earnings Yield](https://www.sciencedirect.com/science/article/abs/pii/S0264999322004254), joint with Li Chen, Luyao Li, and Deshui Yu. **Economic Modelling**, 2023+.
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056)] [[Replication files](https://github.com/difang-huang/smoothing-adjustment)]
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710), joint with Li Chen and Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
-- [Forecasting Dividend Growth: The Role of Adjusted Earnings Yield](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056), joint with Li Chen, Luyao Li, and Deshui Yu. **Economic Modelling**, 2023+.
-  - [[Replication files](https://github.com/difang-huang/smoothing-adjustment)]
 - [Forecasting Excess Returns: The Role of Cross-Sectional Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264), joint with Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/csu)]
 
