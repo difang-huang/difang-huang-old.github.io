@@ -21,8 +21,8 @@ layout: default
 - [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430), joint with Zhengyang Bao. **Journal of Financial and Quantitative Analysis**, 2021, 56(7): 2320–2355.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)] 
   - [[VoxChina](http://voxchina.org/show-3-241.html)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)]
-- [Nonlinear Incentives in the Consumer Credit Market: Evidence from a Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109081), joint with Chen Chen. 
-- [Tardy learning, cognitive biases, and SMEs' decision-making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677), joint with Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou. 
+- [Managerial Incentives and Consumer Lending: Evidence from a Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109081), joint with Chen Chen. 
+- [How Did Small Business Respond to Unexpected Shock? Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677), joint with Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou. 
 
 ### Credit Risk
 - [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) joint with Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong. **Financial Management**. 2022, 51: 143–167.
@@ -42,6 +42,10 @@ layout: default
   - [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
 - [Forecasting Excess Returns: The Role of Cross-Sectional Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264), joint with Deshui Yu.
   - [[Replication files](https://github.com/difang-huang/csu)]
+- [Option-Implied Idiosyncratic Skewness and Expected Returns: Mind the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748), joint with Deshui Yu.
+  - [[Replication files](https://github.com/difang-huang/csu)]
+
+
 
 ### Big Data: Network
 - [Dynamic Analyses of Contagion Risk and Module Evolution on the SSE A-Shares Market Based on Minimum Information Entropy](https://www.mdpi.com/1099-4300/23/4/434), joint with Muzi Chen, Yuhang Wang, and Boyao Wu. **Entropy**, 2021, 23(4), 434.
