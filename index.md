@@ -37,7 +37,7 @@ layout: default
 
 ### Big Data: Forecasting
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://doi.org/10.1016/j.jempfin.2023.02.004), joint with Li Chen and Deshui Yu. **Journal of Empirical Finance**, 2023+.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710)][[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710)] [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
 - [Forecasting Dividend Growth: The Role of Adjusted Earnings Yield](https://www.sciencedirect.com/science/article/abs/pii/S0264999322004254), joint with Li Chen, Luyao Li, and Deshui Yu. **Economic Modelling**, 2023+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056)] [[Replication files](https://github.com/difang-huang/smoothing-adjustment)]
 - [Forecasting Excess Returns: The Role of Cross-Sectional Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264), joint with Deshui Yu.
