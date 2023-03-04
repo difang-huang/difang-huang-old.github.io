@@ -39,7 +39,7 @@ layout: default
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://doi.org/10.1016/j.jempfin.2023.02.004), joint with Li Chen and Deshui Yu. **Journal of Empirical Finance**, 2023+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710)] [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
 - [Cross-Sectional Uncertainty and Expected Stock Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264), joint with Deshui Yu. **Journal of Empirical Finance**, 2023+.
-  - [[Replication files](https://github.com/difang-huang/csu)] [[Internet Appendix]([https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing](https://drive.google.com/file/d/1qXQaJqHFTv_A-f5Fd8s0S3Dq-CyUIG6B/view?usp=share_link))]
+  - [[Replication files](https://github.com/difang-huang/csu)] [[Internet Appendix](https://drive.google.com/file/d/1qXQaJqHFTv_A-f5Fd8s0S3Dq-CyUIG6B/view?usp=share_link)]
 - [Forecasting Dividend Growth: The Role of Adjusted Earnings Yield](https://www.sciencedirect.com/science/article/abs/pii/S0264999322004254), joint with Li Chen, Luyao Li, and Deshui Yu. **Economic Modelling**, 2023+.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783056)] [[Replication files](https://github.com/difang-huang/smoothing-adjustment)]
 - [Option-Implied Idiosyncratic Skewness and Expected Returns: Mind the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748), joint with Deshui Yu.
