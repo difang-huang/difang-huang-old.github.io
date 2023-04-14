@@ -36,8 +36,8 @@ layout: default
 - [How Did Small Business Respond to Unexpected Shock? Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257) (w. Xinjie Wang and Zhaodong (Ken) Zhong)
 - [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555) (w. Muzi Chen, Yan Wang, and Xiaoguang Yang)
-- [Early Mover Advantages in Financial Markets: Evidence from Stock Repurchases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266) (w. Zhengyang Bao and Dongxu Li.)
-- [Option-Implied Idiosyncratic Skewness and Expected Returns: Mind the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748) (w. Deshui Yu.)
+- [Early Mover Advantages in Financial Markets: Evidence from Stock Repurchases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266) (w. Zhengyang Bao and Dongxu Li)
+- [Option-Implied Idiosyncratic Skewness and Expected Returns: Mind the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748) (w. Deshui Yu)
 - [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596) (w. Muzi Chen and Boyao Wu)
 
 **Code and Data**
@@ -45,4 +45,3 @@ layout: default
 Github [repository](https://github.com/difang-huang?tab=repositories), includes
 - Data and program used in published papers;
 - Code containing additional functionality for Mathematica/Matlab/Python/R/Stata.
-![image](https://user-images.githubusercontent.com/24477800/232112911-399adfe0-69a0-4fd0-92bc-5c19a5bbbc31.png)
