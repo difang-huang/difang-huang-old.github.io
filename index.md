@@ -8,9 +8,7 @@ layout: default
 - [Google Scholar](https://scholar.google.com/citations?user=CZ61snQAAAAJ&hl=en&oi=ao) // [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
 ## Publication (By chronological order)
-- [Cross-Sectional Uncertainty and Expected Stock Returns](https://www.sciencedirect.com/science/article/abs/pii/S092753982300035X), joint with Deshui Yu.
-  
-  **Journal of Empirical Finance**, 2023, 72: 321-340.
+- [Cross-Sectional Uncertainty and Expected Stock Returns](https://www.sciencedirect.com/science/article/abs/pii/S092753982300035X), joint with Deshui Yu. <br />**Journal of Empirical Finance**, 2023, 72: 321-340.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264)] [[Replication files](https://github.com/difang-huang/csu)] [[Internet Appendix](https://drive.google.com/file/d/1qXQaJqHFTv_A-f5Fd8s0S3Dq-CyUIG6B/view?usp=share_link)]
 - [Stock Return Predictability and Cyclical Movements in Valuation Ratios](https://doi.org/10.1016/j.jempfin.2023.02.004), joint with Li Chen and Deshui Yu. **Journal of Empirical Finance**, 2023, 72: 36-53.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710)] [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
