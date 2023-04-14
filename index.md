@@ -33,16 +33,13 @@ layout: default
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao)
 - [Gender-Specific Favoritism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680) (w. Zhengyang Bao)
-- [Managerial Incentives and Consumer Lending: Evidence from a Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109081), joint with Chen Chen. 
-- [How Did Small Business Respond to Unexpected Shock? Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677), joint with Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou. 
-- [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong.
-- [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555), joint with Muzi Chen, Yan Wang, and Xiaoguang Yang.
-- [Early Mover Advantages in Financial Markets: Evidence from Stock Repurchases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266), joint with Zhengyang Bao and Dongxu Li.
-- [Option-Implied Idiosyncratic Skewness and Expected Returns: Mind the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748), joint with Deshui Yu.
-- [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596), joint with Muzi Chen and Boyao Wu.
-- [Interlocking Directorates and Firm Performance: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022), joint with Muzi Chen and Boyao Wu.
-- [Semiparametric Single-Index Estimation for Average Treatment Effects](https://www.monash.edu/business/ebs/research/publications/ebs/wp10-2022.pdf), joint with Jiti Gao and Tatsushi Oka.
-  - [[arXiv](https://arxiv.org/abs/2206.08503)]  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4134564)]  [[Replication files](https://github.com/difang-huang/semi-ate)]
+- [Managerial Incentives and Consumer Lending: Evidence from a Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109081) (w. Chen Chen) 
+- [How Did Small Business Respond to Unexpected Shock? Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
+- [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257) (w. Xinjie Wang and Zhaodong (Ken) Zhong)
+- [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555) (w. Muzi Chen, Yan Wang, and Xiaoguang Yang)
+- [Early Mover Advantages in Financial Markets: Evidence from Stock Repurchases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266) (w. Zhengyang Bao and Dongxu Li.)
+- [Option-Implied Idiosyncratic Skewness and Expected Returns: Mind the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748) (w. Deshui Yu.)
+- [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596) (w. Muzi Chen and Boyao Wu)
 
 **Code and Data**
 
