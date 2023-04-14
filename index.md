@@ -33,7 +33,6 @@ layout: default
 - [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555), joint with Muzi Chen, Yan Wang, and Xiaoguang Yang.
 - [Early Mover Advantages in Financial Markets: Evidence from Stock Repurchases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266), joint with Zhengyang Bao and Dongxu Li.
 - [Option-Implied Idiosyncratic Skewness and Expected Returns: Mind the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748), joint with Deshui Yu.
-  - [[Replication files](https://github.com/difang-huang/csu)]
 - [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596), joint with Muzi Chen and Boyao Wu.
 - [Interlocking Directorates and Firm Performance: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005022), joint with Muzi Chen and Boyao Wu.
 - [Semiparametric Single-Index Estimation for Average Treatment Effects](https://www.monash.edu/business/ebs/research/publications/ebs/wp10-2022.pdf), joint with Jiti Gao and Tatsushi Oka.
