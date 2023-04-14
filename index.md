@@ -29,10 +29,10 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)]  [[Replication files](https://github.com/difang-huang/social-distancing)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
 
 **Working Papers**
-- [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282), joint with Zhengyang Bao.
+- [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) (w. Zhengyang Bao)
   - [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/6095)] [[AEA Poster](https://drive.google.com/file/d/1Z07VqEaj4esoc-p2QGVNUj8zuDDYhNs4/view?usp=sharing)] [[Internet Appendix](https://drive.google.com/file/d/1tpA5k_htPn27juShLqt8xYgwvCnz9bg2/view?usp=sharing)]
-- [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239), joint with Zhengyang Bao.
-- [Gender-Specific Favoritism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680), joint with Zhengyang Bao.
+- [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao)
+- [Gender-Specific Favoritism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680) (w. Zhengyang Bao)
 - [Managerial Incentives and Consumer Lending: Evidence from a Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109081), joint with Chen Chen. 
 - [How Did Small Business Respond to Unexpected Shock? Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677), joint with Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou. 
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257), joint with Xinjie Wang and Zhaodong (Ken) Zhong.
@@ -49,3 +49,4 @@ layout: default
 Github [repository](https://github.com/difang-huang?tab=repositories), includes
 - Data and program used in published papers;
 - Code containing additional functionality for Mathematica/Matlab/Python/R/Stata.
+![image](https://user-images.githubusercontent.com/24477800/232112911-399adfe0-69a0-4fd0-92bc-5c19a5bbbc31.png)
