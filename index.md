@@ -16,7 +16,7 @@ layout: default
 - [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w) (w. Zhengyang Bao)
   - **Nature Human Behaviour**, 2022, 6(4): 478–479.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication files](https://osf.io/gvy9c/)]
-- [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) (w. Yubin Li, Xinjie Wang and Zhaodong (Ken) Zhong)
+- [Does the Federal Open Market Committee cycle affect credit risk?](https://doi.org/10.1111/fima.12364) (w. Yubin Li, Xinjie Wang, and Zhaodong (Ken) Zhong)
   - **Financial Management**, 2022, 51: 143–167.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
 - [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430) (w. Zhengyang Bao)
