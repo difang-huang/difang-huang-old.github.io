@@ -40,7 +40,6 @@ layout: default
 - [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596) (w. Muzi Chen and Boyao Wu)
 
 **Code and Data**
-
-Github [repository](https://github.com/difang-huang?tab=repositories), includes
-- Data and program used in published papers;
-- Code containing additional functionality for Mathematica/Matlab/Python/R/Stata.
+- Github [repository](https://github.com/difang-huang?tab=repositories), includes
+  -  Data and program used in published papers;
+  -  Code containing additional functionality for Mathematica/Matlab/Python/R/Stata.
