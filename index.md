@@ -7,6 +7,8 @@ layout: default
 - [Google Scholar](https://scholar.google.com/citations?user=CZ61snQAAAAJ&hl=en&oi=ao) // [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
 **Publications (by chronological order)**
+- [Gender-Specific Favoritism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680) (w. Zhengyang Bao)
+  - **Journal of Economic Behavior and Organization**, 2023+. 
 - [Cross-Sectional Uncertainty and Expected Stock Returns](https://www.sciencedirect.com/science/article/abs/pii/S092753982300035X) (w. Deshui Yu)
   - **Journal of Empirical Finance**, 2023, 72: 321-340.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264)] [[Replication files](https://github.com/difang-huang/csu)] [[Internet Appendix](https://drive.google.com/file/d/1qXQaJqHFTv_A-f5Fd8s0S3Dq-CyUIG6B/view?usp=share_link)]
@@ -30,7 +32,6 @@ layout: default
 **Working Papers**
 - [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) (w. Zhengyang Bao)
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao)
-- [Gender-Specific Favoritism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680) (w. Zhengyang Bao)
 - [Managerial Incentives and Consumer Lending: Evidence from a Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109081) (w. Chen Chen) 
 - [How Did Small Business Respond to Unexpected Shock? Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257) (w. Xinjie Wang and Zhaodong (Ken) Zhong)
