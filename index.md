@@ -7,6 +7,8 @@ layout: default
 - [Google Scholar](https://scholar.google.com/citations?user=CZ61snQAAAAJ&hl=en&oi=ao) // [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
 **Publications (by chronological order)**
+- [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596) (w. Muzi Chen and Boyao Wu)
+  - **Financial Management**, 2023+. 
 - [Gender-Specific Favoritism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680) (w. Zhengyang Bao)
   - **Journal of Economic Behavior and Organization**, 2023+. 
 - [Cross-Sectional Uncertainty and Expected Stock Returns](https://www.sciencedirect.com/science/article/abs/pii/S092753982300035X) (w. Deshui Yu)
@@ -38,7 +40,6 @@ layout: default
 - [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555) (w. Muzi Chen, Yan Wang, and Xiaoguang Yang)
 - [Early Mover Advantages in Financial Markets: Evidence from Stock Repurchases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266) (w. Zhengyang Bao and Dongxu Li)
 - [Option-Implied Idiosyncratic Skewness and Expected Returns: Mind the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748) (w. Deshui Yu)
-- [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596) (w. Muzi Chen and Boyao Wu)
 
 **Code and Data**
 - Github [repository](https://github.com/difang-huang?tab=repositories), includes
