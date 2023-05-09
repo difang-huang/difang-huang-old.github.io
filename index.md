@@ -38,7 +38,7 @@ layout: default
 - [How Did Small Business Respond to Unexpected Shock? Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
 - [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257) (w. Xinjie Wang and Zhaodong (Ken) Zhong)
 - [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555) (w. Muzi Chen, Yan Wang, and Xiaoguang Yang)
-- [Shell-Shocked Investors: Earthquake Effect on Yield Spreads of Quasi-Municipal Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438706)(w. Haoyu Gao, Xiaoguang Yang, and Ye Zhou)
+- [Shell-Shocked Investors: Earthquake Effect on Yield Spreads of Quasi-Municipal Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438706) (w. Haoyu Gao, Xiaoguang Yang, and Ye Zhou)
 - [Early Mover Advantages in Financial Markets: Evidence from Stock Repurchases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266) (w. Zhengyang Bao and Dongxu Li)
 - [Option-Implied Idiosyncratic Skewness and Expected Returns: Mind the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748) (w. Deshui Yu)
 
