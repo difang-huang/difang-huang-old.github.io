@@ -33,6 +33,7 @@ layout: default
 
 **Working Papers**
 - [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) (w. Zhengyang Bao)
+-  [[Slides](https://www.jianguoyun.com/p/DU1IQysQ8M36CBj4nIcFIAA)]
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao)
 - [Managerial Incentives and Consumer Lending: Evidence from a Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109081) (w. Chen Chen) 
 - [How Did Small Business Respond to Unexpected Shock? Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
