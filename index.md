@@ -9,8 +9,10 @@ layout: default
 **Publications (by chronological order)**
 - [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596) (w. Muzi Chen and Boyao Wu)
   - **Financial Management**, 2023+. 
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596)] [[Internet Appendix](https://drive.google.com/file/d/1A4l217LoTxaGwZRPFHTgodUgbGNhmRYB/view?usp=sharing)]
 - [Gender-Specific Favoritism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680) (w. Zhengyang Bao)
   - **Journal of Economic Behavior and Organization**, 2023+. 
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] [[Internet Appendix](https://drive.google.com/file/d/1NbPASga_Fd6_AGsISks2ra4r-N5MhbXT/view?usp=sharing)]
 - [Cross-Sectional Uncertainty and Expected Stock Returns](https://www.sciencedirect.com/science/article/abs/pii/S092753982300035X) (w. Deshui Yu)
   - **Journal of Empirical Finance**, 2023, 72: 321-340.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264)] [[Replication files](https://github.com/difang-huang/csu)] [[Internet Appendix](https://drive.google.com/file/d/1qXQaJqHFTv_A-f5Fd8s0S3Dq-CyUIG6B/view?usp=share_link)]
