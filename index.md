@@ -3,9 +3,7 @@ layout: default
 ---
 
 **Welcome to my homepage!**
-- My recent research concentrates on examining the human-algorithm connection through the application of economic and machine learning methodologies. 
-- Specifically, I investigate how information technologies, such as artificial intelligence, blockchain, and data-driven algorithms, influence human behavior and promote a sustainable society.
-
+- My recent research concentrates on examining the human-algorithm connection through the application of economic and machine learning methodologies.
 - [Google Scholar](https://scholar.google.com/citations?user=CZ61snQAAAAJ&hl=en&oi=ao) // [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
 **Publications (by chronological order)**
