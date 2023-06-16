@@ -21,7 +21,7 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755710)] [[Replication files](https://github.com/difang-huang/cyclical-movement)] [[Internet Appendix](https://drive.google.com/file/d/192zhwxNL7MBcDgQOdFHPtKJmokLBwabY/view?usp=sharing)]
 - [Impact of lockdown and government subsidies on rural households at early COVID-19 pandemic in China](https://www.emerald.com/insight/content/doi/10.1108/CAER-12-2021-0239/full/html) (w. Nan Li, Muzi Chen, Haoyu Gao, and Xiaoguang Yang).
   - **China Agricultural Economic Review**, 2023, 15(1): 109-133.
-  - [[Research Square](https://www.researchsquare.com/article/rs-2290835/v1)] [[Survey](https://github.com/difang-huang/cyclical-movement)]
+  - [[Research Square](https://www.researchsquare.com/article/rs-2290835/v1)] [[Survey](https://drive.google.com/file/d/1iDa2jChZVco6E6qco15R788VK6hqAMq4/view?usp=drive_link)]
 - [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w) (w. Zhengyang Bao)
   - **Nature Human Behaviour**, 2022, 6(4): 478–479.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication files](https://osf.io/gvy9c/)]
