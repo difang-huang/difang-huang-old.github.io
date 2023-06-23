@@ -30,7 +30,7 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512662)]  [[Replication files](https://github.com/difang-huang/fomc-cycle)]
 - [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430) (w. Zhengyang Bao)
   - **Journal of Financial and Quantitative Analysis**, 2021, 56(7): 2320–2355.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)] 
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)] 
   - [[VoxChina](http://voxchina.org/show-3-241.html)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)]
 - [How Effective Is Social Distancing?](https://mailchi.mp/cepr/press-release-covid-economics-vetted-and-real-time-papers-59)
   - **Covid Economics**, 2020, 59: 118-148. 
