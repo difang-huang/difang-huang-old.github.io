@@ -33,17 +33,6 @@ layout: default
   - **Covid Economics**, 2020, 59: 118-148. 
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680321)]  [[Replication files](https://github.com/difang-huang/social-distancing)] [[CEPR Interview](https://www.youtube.com/watch?v=K6GAchZP9E8&t=1s&ab_channel=CEPR%26VideoVox)]
 
-**Working Papers**
-- [Gender Differences in Reaction to Enforcement Mechanisms: A Large-Scale Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641282) (w. Zhengyang Bao)
-- [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202239) (w. Zhengyang Bao)
-- [Managerial Incentives and Consumer Lending: Evidence from a Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109081) (w. Chen Chen) 
-- [How Did Small Business Respond to Unexpected Shock? Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
-- [Monetary Policy Surprises and Corporate Credit Spreads](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3700257) (w. Xinjie Wang and Zhaodong (Ken) Zhong)
-- [Information Content of the Geography of Underwriters on Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095555) (w. Muzi Chen, Yan Wang, and Xiaoguang Yang)
-- [Shell-Shocked Investors: Earthquake Effect on Yield Spreads of Quasi-Municipal Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438706) (w. Haoyu Gao, Xiaoguang Yang, and Ye Zhou)
-- [Early Mover Advantages in Financial Markets: Evidence from Stock Repurchases](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058266) (w. Zhengyang Bao and Dongxu Li)
-- [Option-Implied Idiosyncratic Skewness and Expected Returns: Mind the Long Run](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4323748) (w. Deshui Yu)
-
 **Code and Data**
 - Github [repository](https://github.com/difang-huang?tab=repositories), includes
   -  Data and program used in published papers;
