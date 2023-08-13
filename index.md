@@ -7,12 +7,12 @@ layout: default
 - [Google Scholar](https://scholar.google.com/citations?user=CZ61snQAAAAJ&hl=en&oi=ao) // [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
 **Publications (by chronological order)**
-- [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effect](https://onlinelibrary.wiley.com/doi/10.1111/fima.12430) (w. Muzi Chen and Boyao Wu)
-  - **Financial Management**, 2023+. 
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596)] [[Internet Appendix](https://drive.google.com/file/d/1A4l217LoTxaGwZRPFHTgodUgbGNhmRYB/view?usp=sharing)]
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
   - **Journal of Economic Behavior and Organization**, 2023+. 
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] [[Internet Appendix](https://drive.google.com/file/d/1NbPASga_Fd6_AGsISks2ra4r-N5MhbXT/view?usp=sharing)]
+- [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effect](https://onlinelibrary.wiley.com/doi/10.1111/fima.12430) (w. Muzi Chen and Boyao Wu)
+  - **Financial Management**, 2023+. 
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491596)] [[Replication files](https://github.com/difang-huang/LASSO-TZ)] [[Internet Appendix](https://drive.google.com/file/d/1A4l217LoTxaGwZRPFHTgodUgbGNhmRYB/view?usp=sharing)]
 - [Cross-Sectional Uncertainty and Expected Stock Returns](https://www.sciencedirect.com/science/article/abs/pii/S092753982300035X) (w. Deshui Yu)
   - **Journal of Empirical Finance**, 2023, 72: 321-340.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907264)] [[Replication files](https://github.com/difang-huang/csu)] [[Internet Appendix](https://drive.google.com/file/d/1qXQaJqHFTv_A-f5Fd8s0S3Dq-CyUIG6B/view?usp=share_link)]
