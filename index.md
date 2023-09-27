@@ -14,8 +14,8 @@ layout: default
   - [[Elephant in the lab](https://elephantinthelab.org/gender-disparity-in-science/)] [[Times Higher Education](https://www.timeshighereducation.com/blog/china-must-do-more-support-gender-equality-science)]
 - [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430) (w. Zhengyang Bao)
   - **Journal of Financial and Quantitative Analysis**, 2021, 56(7): 2320–2355.
-  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)] 
-  - [[VoxChina](http://voxchina.org/show-3-241.html)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)]
+  - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)]
+  - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina](http://voxchina.org/show-3-241.html)] 
 
 **Other Publications**
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
