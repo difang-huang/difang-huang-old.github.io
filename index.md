@@ -7,7 +7,7 @@ layout: default
 - [Google Scholar](https://scholar.google.com/citations?user=CZ61snQAAAAJ&hl=en&oi=ao) // [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3911606) // [arXiv](https://arxiv.org/a/huang_d_2.html)
 
 
-**Selected Publications**
+**Main Publications**
 - [Reform scientific elections to improve gender equality](https://www.nature.com/articles/s41562-022-01322-w) (w. Zhengyang Bao)
   - **Nature Human Behaviour**, 2022, 6(4): 478–479.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060205)] [[Replication Files](https://osf.io/gvy9c/)]
