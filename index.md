@@ -18,6 +18,9 @@ layout: default
   - [[JFQA COVID Symposium](https://jfqa.org/jfqa-home/covid-symposium/)] [[Patrick T. Harker's Speech](https://youtu.be/KGbMgL1M6E4?t=572)] [[VoxChina](http://voxchina.org/show-3-241.html)] 
 
 **Other Publications**
+- [How Did Small Business Respond to Unexpected Shocks? Evidence from a Natural Experiment in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677) (w. Muzi Chen, Yunlong Wang, Xiaoguang Yang, and Ye Zhou)
+  -  **Journal of Corporate Finance**, 2024+.
+  -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677)]
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
   - **Journal of Economic Behavior and Organization**, 2023+. 
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] [[Internet Appendix](https://drive.google.com/file/d/1NbPASga_Fd6_AGsISks2ra4r-N5MhbXT/view?usp=sharing)]
