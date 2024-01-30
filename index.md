@@ -25,7 +25,7 @@ layout: default
   -  **Journal of Corporate Finance**, 2024+.
   -  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4044677)] [[LSE Business Review](https://blogs.lse.ac.uk/businessreview/2024/01/10/how-a-managers-biases-influence-their-firms-response-to-shocks/)]
 - [Gender-Specific Favoritism in Science](https://doi.org/10.1016/j.jebo.2023.07.011) (w. Zhengyang Bao)
-  - **Journal of Economic Behavior and Organization**, 2023+. 
+  - **Journal of Economic Behavior and Organization**, 2024+. 
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163680)] [[Internet Appendix](https://drive.google.com/file/d/1NbPASga_Fd6_AGsISks2ra4r-N5MhbXT/view?usp=sharing)]
 - [Estimating Contagion Mechanism in Global Equity Market with Time-Zone Effect](https://onlinelibrary.wiley.com/doi/10.1111/fima.12430) (w. Muzi Chen and Boyao Wu)
   - **Financial Management**, 2023, 52: 543–572.
